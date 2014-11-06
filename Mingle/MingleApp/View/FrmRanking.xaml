@@ -1,0 +1,60 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="MingleApp.View.Ranking"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <!--Pivot Control-->
+        <phone:Pivot Title="Ranking">
+            <phone:PivotItem Header="geral">
+                <Grid>
+                    <StackPanel Name="stackGeral" HorizontalAlignment="Center" Orientation="Vertical" Margin="2">
+                    </StackPanel>
+                </Grid>
+            </phone:PivotItem>
+            <phone:PivotItem Header="+fotos">
+                <Grid>
+                    <StackPanel Name="stackFotos" HorizontalAlignment="Center" Orientation="Vertical" Margin="2">
+                    </StackPanel>
+                </Grid>
+            </phone:PivotItem>
+            <phone:PivotItem Header="+encontros">
+                <Grid>
+                    <StackPanel Name="stackEncontros" HorizontalAlignment="Center" Orientation="Vertical" Margin="2">
+                    </StackPanel>
+                </Grid>
+            </phone:PivotItem>
+            <phone:PivotItem Header="+caronas">
+                <Grid>
+                    <StackPanel Name="stackCaronas" HorizontalAlignment="Center" Orientation="Vertical" Margin="2">
+                    </StackPanel>
+                </Grid>
+            </phone:PivotItem>
+            <phone:PivotItem Header="+atrasos">
+                <Grid>
+                    <StackPanel Name="stackAtrasos" HorizontalAlignment="Center"  Orientation="Vertical" Margin="2">
+                    </StackPanel>
+                </Grid>
+            </phone:PivotItem>
+        </phone:Pivot>
+        <phone:LongListSelector HorizontalAlignment="Left" Height="100" Margin="364,130,0,0" VerticalAlignment="Top" Width="100"/>
+        
+    </Grid>
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <!--Pôr as imagens numa pasta certa-->
+            <shell:ApplicationBarIconButton IconUri="/Images/feature.search.png" Text="ver amigos"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>

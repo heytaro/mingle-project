@@ -1,0 +1,79 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="MingleApp.View.FrmMeeting"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:maps="clr-namespace:Microsoft.Phone.Maps.Controls;assembly=Microsoft.Phone.Maps"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot contains the root grid where all other page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="#006C51">
+        <phone:Panorama Title="Pizzaria com a turma">
+
+            <!--Panorama item 'one-->
+            <!--Panorama item two-->
+            <phone:PanoramaItem Header="pessoas">
+                <StackPanel Orientation="Vertical">
+                    <Grid>
+                        <Image HorizontalAlignment="Left" Source="../Assets/woman.png" Width="60" Height="60" Margin="20,0,30,10" VerticalAlignment="Center" ></Image>
+                        <TextBlock Foreground="#f5f5f5" Text="Ana Clara" Height="35" FontSize="25" VerticalAlignment="Center" Margin="90,0,0,0"></TextBlock>
+                        <Ellipse Width="30" Height="30" Fill="#0ACF00" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,0,0,0"></Ellipse>
+                    </Grid>
+                    <Line Width="456" Height="10" Fill="White"></Line>
+                    <Grid>
+                        <Image HorizontalAlignment="Left" Source="../Assets/blackwoman.jpg" Width="60" Height="60" Margin="20,0,30,10" VerticalAlignment="Center" ></Image>
+                        <TextBlock Text="Yasmim Libório" Height="35" FontSize="25" VerticalAlignment="Center" Margin="90,0,0,0"></TextBlock>
+                        <Ellipse Width="30" Height="30" Fill="#0ACF00" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,0,0,0"></Ellipse>
+                    </Grid>
+                    <Grid>
+                        <Image HorizontalAlignment="Left" Source="../Assets/happy.png" Width="60" Height="60" Margin="20,0,30,10" VerticalAlignment="Center" ></Image>
+                        <TextBlock Text="Giovanna Belém" Height="35" FontSize="25" VerticalAlignment="Center" Margin="90,0,0,0"></TextBlock>
+                        <Ellipse Width="30" Height="30" Fill="#0acf00" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,0,0,0"></Ellipse>
+                    </Grid>
+                    <Grid>
+                        <Image HorizontalAlignment="Left" Source="../Assets/younguy.png" Width="60" Height="60" Margin="20,0,30,10" VerticalAlignment="Center" ></Image>
+                        <TextBlock Text="Ricardo Oliveira" Height="35" FontSize="25" VerticalAlignment="Center" Margin="90,0,0,0"></TextBlock>
+                        <Ellipse Width="30" Height="30" Fill="Orange" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,0,0,0"></Ellipse>
+                    </Grid>
+                    <Grid>
+                        <Image HorizontalAlignment="Left" Source="../Assets/monster.png" Width="60" Height="60" Margin="20,0,30,10" VerticalAlignment="Center" ></Image>
+                        <TextBlock Text="Sergillan Albuquerque" Height="35" FontSize="25" VerticalAlignment="Center" Margin="90,0,0,0"></TextBlock>
+                        <Ellipse Width="30" Height="30" Fill="Orange" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,0,0,0"></Ellipse>
+                    </Grid>
+                    <Grid>
+                        <Image HorizontalAlignment="Left" Source="../Assets/man.png" Width="60" Height="60" Margin="20,0,30,10" VerticalAlignment="Center" ></Image>
+                        <TextBlock Text="Reginaldo Rossi" Height="35" FontSize="25" VerticalAlignment="Center" Margin="90,0,0,0"></TextBlock>
+                        <Ellipse Width="30" Height="30" Fill="Red" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,0,0,0"></Ellipse>
+                    </Grid>
+                </StackPanel>
+
+            </phone:PanoramaItem>
+
+            <phone:PanoramaItem Header="mapa">
+                <StackPanel Orientation="Vertical">
+                    <maps:Map VerticalAlignment="Bottom" Name="itsMap" Height="350" Tap="itsMap_Tap">
+                    </maps:Map>
+                    <Grid>
+                        <TextBlock TextWrapping="Wrap" Text="Clique no mapa para visualizar sua localização e a de seus amigos" Height="70" HorizontalAlignment="Center" Width="400" TextAlignment="Center" FontSize="25"></TextBlock>
+                    </Grid>
+                </StackPanel>
+                
+            </phone:PanoramaItem>
+
+            <phone:PanoramaItem Header="fotos">
+                <Grid/>
+            </phone:PanoramaItem>
+            <!--
+                    -->
+        </phone:Panorama>
+    </Grid>
+
+</phone:PhoneApplicationPage>

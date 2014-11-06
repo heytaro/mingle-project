@@ -1,0 +1,697 @@
+D:\DOWNLOADS CHROME\Mingle Development\JUNTO\MingleApp\MingleApp\Bin\Debug\Assets\ApplicationIcon.png
+D:\DOWNLOADS CHROME\Mingle Development\JUNTO\MingleApp\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\DOWNLOADS CHROME\Mingle Development\JUNTO\MingleApp\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\DOWNLOADS CHROME\Mingle Development\JUNTO\MingleApp\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\DOWNLOADS CHROME\Mingle Development\JUNTO\MingleApp\MingleApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\DOWNLOADS CHROME\Mingle Development\JUNTO\MingleApp\MingleApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\DOWNLOADS CHROME\Mingle Development\JUNTO\MingleApp\MingleApp\Bin\Debug\MingleApp.dll
+D:\DOWNLOADS CHROME\Mingle Development\JUNTO\MingleApp\MingleApp\Bin\Debug\MingleApp.pdb
+D:\DOWNLOADS CHROME\Mingle Development\JUNTO\MingleApp\MingleApp\Bin\Debug\AppManifest.xaml
+D:\DOWNLOADS CHROME\Mingle Development\JUNTO\MingleApp\MingleApp\Bin\Debug\Properties\WMAppManifest.xml
+D:\DOWNLOADS CHROME\Mingle Development\JUNTO\MingleApp\MingleApp\Bin\Debug\MingleApp_Debug_AnyCPU.xap
+D:\DOWNLOADS CHROME\Mingle Development\JUNTO\MingleApp\MingleApp\obj\Debug\App.g.cs
+D:\DOWNLOADS CHROME\Mingle Development\JUNTO\MingleApp\MingleApp\obj\Debug\MainPage.g.cs
+D:\DOWNLOADS CHROME\Mingle Development\JUNTO\MingleApp\MingleApp\obj\Debug\MingleApp.g.resources
+D:\DOWNLOADS CHROME\Mingle Development\JUNTO\MingleApp\MingleApp\obj\Debug\MingleApp.Resources.AppResources.resources
+D:\DOWNLOADS CHROME\Mingle Development\JUNTO\MingleApp\MingleApp\obj\Debug\MingleApp.csproj.GenerateResource.Cache
+D:\DOWNLOADS CHROME\Mingle Development\JUNTO\MingleApp\MingleApp\obj\Debug\MingleApp.dll
+D:\DOWNLOADS CHROME\Mingle Development\JUNTO\MingleApp\MingleApp\obj\Debug\MingleApp.pdb
+D:\DOWNLOADS CHROME\Mingle Development\JUNTO\MingleApp\MingleApp\obj\Debug\XapCacheFile.xml
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\MingleApp.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\MingleApp.pdb
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\obj\Debug\MingleApp.csprojResolveAssemblyReference.cache
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\obj\Debug\App.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\obj\Debug\View\FrmConfigureMeeting.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\obj\Debug\View\FrmConfirmMeeting.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\obj\Debug\View\FrmFriendListSelect.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\obj\Debug\View\FrmLocalSelect.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\obj\Debug\View\FrmRanking.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\obj\Debug\View\MainPage.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\obj\Debug\MingleApp.g.resources
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\obj\Debug\MingleApp.Resources.AppResources.resources
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\obj\Debug\MingleApp.csproj.GenerateResource.Cache
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\obj\Debug\MingleApp.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\obj\Debug\MingleApp.pdb
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\AppManifest.xaml
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\Bin\Debug\MingleApp_Debug_AnyCPU.xap
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\S1\MingleApp_Ana\MingleApp\obj\Debug\XapCacheFile.xml
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\Assets\ApplicationIcon.png
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\MingleApp.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\MingleApp.pdb
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\AppManifest.xaml
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\Properties\WMAppManifest.xml
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\MingleApp_Debug_AnyCPU.xap
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\MingleApp.csprojResolveAssemblyReference.cache
+E:\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\App.g.cs
+E:\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\FrmConfigureMeeting.g.cs
+E:\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\FrmConfirmMeeting.g.cs
+E:\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\FrmFriendListSelect.g.cs
+E:\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\FrmListMeetings.g.cs
+E:\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\FrmLocalSelect.g.cs
+E:\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\FrmRanking.g.cs
+E:\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\MainPage.g.cs
+E:\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\MingleApp.g.resources
+E:\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\MingleApp.Resources.AppResources.resources
+E:\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\MingleApp.csproj.GenerateResource.Cache
+E:\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\MingleApp.dll
+E:\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\MingleApp.pdb
+E:\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\XapCacheFile.xml
+C:\Users\dodo\Documents\FNE\API\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\MingleApp.csprojResolveAssemblyReference.cache
+C:\Users\dodo\Documents\FNE\API\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\App.g.cs
+C:\Users\dodo\Documents\FNE\API\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\Contatos.g.cs
+C:\Users\dodo\Documents\FNE\API\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\DetalhesContatos.g.cs
+C:\Users\dodo\Documents\FNE\API\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\FrmConfigureMeeting.g.cs
+C:\Users\dodo\Documents\FNE\API\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\FrmConfirmMeeting.g.cs
+C:\Users\dodo\Documents\FNE\API\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\FrmFriendListSelect.g.cs
+C:\Users\dodo\Documents\FNE\API\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\FrmListMeetings.g.cs
+C:\Users\dodo\Documents\FNE\API\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\FrmLocalSelect.g.cs
+C:\Users\dodo\Documents\FNE\API\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\FrmRanking.g.cs
+C:\Users\dodo\Documents\FNE\API\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\MainPage.g.cs
+C:\Users\dodo\Documents\FNE\API\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\MingleApp.g.resources
+C:\Users\dodo\Documents\FNE\API\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\MingleApp.Resources.AppResources.resources
+C:\Users\dodo\Documents\FNE\API\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\MingleApp.csproj.GenerateResource.Cache
+C:\Users\dodo\Documents\FNE\API\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\MingleApp.dll
+C:\Users\dodo\Documents\FNE\API\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\MingleApp.pdb
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\MingleApp.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\MingleApp.pdb
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\MingleApp.csprojResolveAssemblyReference.cache
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\App.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\CadastroUsuario.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\Contatos.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\DetalhesContatos.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\FrmConfigureMeeting.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\FrmConfirmMeeting.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\FrmFriendListSelect.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\FrmListMeetings.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\FrmLocalSelect.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\FrmRanking.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\MainPage.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\NovosUsuarios.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\MingleApp.g.resources
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\MingleApp.Resources.AppResources.resources
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\MingleApp.csproj.GenerateResource.Cache
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\MingleApp.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\MingleApp.pdb
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\AppManifest.xaml
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\Bin\Debug\MingleApp_Debug_AnyCPU.xap
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\XapCacheFile.xml
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\MingleApp_Ana - V2!!!!!\MingleApp\obj\Debug\View\Ranking.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\MingleApp.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\MingleApp.pdb
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\AppManifest.xaml
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\MingleApp_Debug_AnyCPU.xap
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\obj\Debug\MingleApp.csprojResolveAssemblyReference.cache
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\obj\Debug\App.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\obj\Debug\View\CadastroUsuario.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\obj\Debug\View\Contatos.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\obj\Debug\View\DetalhesContatos.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\obj\Debug\View\FrmConfigureMeeting.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\obj\Debug\View\FrmConfirmMeeting.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\obj\Debug\View\FrmFriendListSelect.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\obj\Debug\View\FrmListMeetings.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\obj\Debug\View\FrmLocalSelect.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\obj\Debug\View\FrmRanking.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\obj\Debug\View\MainPage.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\obj\Debug\View\NovosUsuarios.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\obj\Debug\View\PerfilUsuario.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\obj\Debug\View\Ranking.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\obj\Debug\MingleApp.g.resources
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\obj\Debug\MingleApp.Resources.AppResources.resources
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\obj\Debug\MingleApp.csproj.GenerateResource.Cache
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\obj\Debug\MingleApp.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\obj\Debug\MingleApp.pdb
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\Entrega_Final\MingleApp\obj\Debug\XapCacheFile.xml
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\MingleApp.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\MingleApp.pdb
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\AppManifest.xaml
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\MingleApp_Debug_AnyCPU.xap
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.csprojResolveAssemblyReference.cache
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\App.g.cs
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\CadastroUsuario.g.cs
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\Contatos.g.cs
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\DetalhesContatos.g.cs
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmConfigureMeeting.g.cs
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmConfirmMeeting.g.cs
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmFriendListSelect.g.cs
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmListMeetings.g.cs
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmLocalSelect.g.cs
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmRanking.g.cs
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\MainPage.g.cs
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\NovosUsuarios.g.cs
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\PerfilUsuario.g.cs
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\Ranking.g.cs
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.g.resources
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.Resources.AppResources.resources
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.csproj.GenerateResource.Cache
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.dll
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.pdb
+C:\Users\dodo\Downloads\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\XapCacheFile.xml
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\MingleApp.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\MingleApp.pdb
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\AppManifest.xaml
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\MingleApp_Debug_AnyCPU.xap
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.csprojResolveAssemblyReference.cache
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\App.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\CadastroUsuario.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\Contatos.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\DetalhesContatos.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmConfigureMeeting.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmConfirmMeeting.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmFriendListSelect.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmListMeetings.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmLocalSelect.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmRanking.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\MainPage.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\NovosUsuarios.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\PerfilUsuario.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\Ranking.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.g.resources
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.Resources.AppResources.resources
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.csproj.GenerateResource.Cache
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.pdb
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_I\gente\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\XapCacheFile.xml
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\MingleApp.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\MingleApp.pdb
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\AppManifest.xaml
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\MingleApp_Debug_AnyCPU.xap
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.csprojResolveAssemblyReference.cache
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\App.g.cs
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\CadastroUsuario.g.cs
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\Contatos.g.cs
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\DetalhesContatos.g.cs
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmConfigureMeeting.g.cs
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmConfirmMeeting.g.cs
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmFriendListSelect.g.cs
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmListMeetings.g.cs
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmLocalSelect.g.cs
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmRanking.g.cs
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\MainPage.g.cs
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\NovosUsuarios.g.cs
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\PerfilUsuario.g.cs
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\Ranking.g.cs
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.g.resources
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.Resources.AppResources.resources
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.csproj.GenerateResource.Cache
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.dll
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.pdb
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\XapCacheFile.xml
+C:\Users\dodo\Documents\FNE\API\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmMeetingDetails.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\MingleApp.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\MingleApp.pdb
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\AppManifest.xaml
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\MingleApp_Debug_AnyCPU.xap
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmMap.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmMeeting.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmLogin.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmContacts.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmContactDetails.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmConfigureMeeting.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmConfirmMeeting.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmFriendListSelect.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmListMeetings.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmLocalSelect.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmMeetingDetails.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmStartScreen.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmUserRegistration.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmProfile.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\FrmRanking.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.g.resources
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.Resources.AppResources.resources
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.csproj.GenerateResource.Cache
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.pdb
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\XapCacheFile.xml
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\View\PageMeeting.g.cs
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\MingleApp.csprojResolveAssemblyReference.cache
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\SPRINTS\Sprint_II\Entrega_Final\Entrega_Final\MingleApp\obj\Debug\Resources\App.g.cs

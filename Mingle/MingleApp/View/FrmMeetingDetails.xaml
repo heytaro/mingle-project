@@ -1,0 +1,57 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="MingleApp.View.FrmMeetingDetails"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot contains the root grid where all other page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <phone:Panorama Title="{Binding}" Name="panEncontro">
+
+            <!--Panorama item one-->
+            <phone:PanoramaItem Header="Detalhes">
+                <StackPanel Name="PanelDetalhes">
+                    <TextBlock Text="{Binding}" Name="lblDescricao" Style="{StaticResource PhoneTextTitle3Style}"/>
+                    <TextBlock Text="Data" Style="{StaticResource PhoneTextNormalStyle}"/>
+                    <TextBlock Text="{Binding}" Name="lblData" Style="{StaticResource PhoneTextTitle2Style}"/>
+                    <TextBlock Text="Hora" Style="{StaticResource PhoneTextNormalStyle}"/>
+                    <TextBlock Text="{Binding}" Name="lblHora" Style="{StaticResource PhoneTextTitle2Style}"/>
+                    <TextBlock Text="Local" Style="{StaticResource PhoneTextNormalStyle}"/>
+                    <TextBlock Text="{Binding}" Name="lblLocal" Style="{StaticResource PhoneTextTitle2Style}"/>
+                    <TextBlock Text="Convidados" Style="{StaticResource PhoneTextNormalStyle}"/>
+
+                    <ListBox Name="lstConvidados" Height="270">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding nome}" Style="{StaticResource PhoneTextTitle2Style}"/>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                </StackPanel>
+            </phone:PanoramaItem>
+
+            <!--Panorama item two-->
+            <phone:PanoramaItem Header="Fotos">
+                <!--Essa deixo a caso da Girina =p-->
+                <Grid/>
+            </phone:PanoramaItem>
+        </phone:Panorama>
+    </Grid>
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <!--Pôr as imagens numa pasta certa-->
+            <shell:ApplicationBarIconButton IconUri="/Images/back.png" Click="Voltar_Click" Text="Voltar"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>

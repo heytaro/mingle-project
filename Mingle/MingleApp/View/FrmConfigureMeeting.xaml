@@ -1,0 +1,61 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="MingleApp.View.FrmConfigureMeeting"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <ScrollViewer>
+        <Grid x:Name="LayoutRoot" Background="Transparent">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <!--TitlePanel contains the name of the application and page title-->
+            <StackPanel Grid.Row="0" Margin="12,17,0,28">
+                <TextBlock Text="NOVO EVENTO" Style="{StaticResource PhoneTextNormalStyle}"/>
+                <TextBlock Text="Evento" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+            </StackPanel>
+
+            <!--ContentPanel - place additional content here-->
+
+            <StackPanel x:Name="pnlConteudo" Grid.Row="1" Margin="12,0,12,0">
+
+                <TextBlock Text="Nome:" Style="{StaticResource PhoneTextNormalStyle}"/>
+                <TextBox Name="txtNomeEvento"/>
+                <TextBlock Text="Descrição:" Style="{StaticResource PhoneTextNormalStyle}"/>
+                <TextBox Name="txtDescricaoEvento"  Height="242" TextWrapping="Wrap"
+                    AcceptsReturn="True"
+                    VerticalScrollBarVisibility="Visible"/>
+                <TextBlock Text="Data:" Style="{StaticResource PhoneTextNormalStyle}"/>
+                <toolkit:DatePicker Name="dtpDataEvento"/>
+                <TextBlock Text="Hora:" Style="{StaticResource PhoneTextNormalStyle}"/>
+                <toolkit:TimePicker Name="tpHoraEvento"/>
+                <TextBlock Text="Local:" Style="{StaticResource PhoneTextNormalStyle}"/>
+                <TextBox Name="txtLocalEvento"/>
+            </StackPanel>
+        </Grid>
+    </ScrollViewer>
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <!--Pôr as imagens numa pasta certa-->
+            <shell:ApplicationBarIconButton IconUri="/Images/back.png" Click="Voltar_Click" Text="Voltar"/>
+            <!-- Não sei se vai precisar desse. -->
+            <shell:ApplicationBarIconButton IconUri="/Images/cancel.png" Click="Cancelar_Click" Text="Cancelar"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/next.png" Click="Avancar_Click" Text="Avançar"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>
