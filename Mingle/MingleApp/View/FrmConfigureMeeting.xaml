@@ -39,9 +39,9 @@
                     AcceptsReturn="True"
                     VerticalScrollBarVisibility="Visible"/>
                 <TextBlock Text="Data:" Style="{StaticResource PhoneTextNormalStyle}"/>
-                <toolkit:DatePicker Name="dtpDataEvento"/>
+              <!--  <toolkit:DatePicker Name="dtpDataEvento"/>
                 <TextBlock Text="Hora:" Style="{StaticResource PhoneTextNormalStyle}"/>
-                <toolkit:TimePicker Name="tpHoraEvento"/>
+                <toolkit:TimePicker Name="tpHoraEvento"/> -->
                 <TextBlock Text="Local:" Style="{StaticResource PhoneTextNormalStyle}"/>
                 <TextBox Name="txtLocalEvento"/>
             </StackPanel>

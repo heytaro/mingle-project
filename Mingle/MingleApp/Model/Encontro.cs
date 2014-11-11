@@ -12,17 +12,18 @@ namespace MingleApp.Model
             private int id;
             public  Usuario administrador;
             public String titulo { get; set; }
-            public String local { get; set; }
             public String descricao { get; set; }
             public GeoCoordinate coordenadas { get; set; }
             public DateTime horaData { get; set; }
             public List<Usuario> convidados { get; set; }
+            public Local local { get; set; }
 
 
             public Encontro()
             {
 
-                titulo = descricao = local = "";
+                titulo = descricao = "";
+                local = new Local("","","","","","","");
                 coordenadas = new GeoCoordinate();
                 horaData = new DateTime();
                 convidados = new List<Usuario>();
@@ -30,7 +31,7 @@ namespace MingleApp.Model
             public Encontro(int id)
             {
                 this.id = id;
-                titulo = descricao = local = "";
+                titulo = descricao = "";
                 coordenadas = new GeoCoordinate();
                 horaData = new DateTime();
                 convidados = new List<Usuario>();
@@ -41,7 +42,7 @@ namespace MingleApp.Model
                 id = pId;
                 titulo = pTitulo;
                 descricao = pDescricao;
-                local = pLocal;
+                local = new Local("", "", "", "", "", "", "");
                 coordenadas = pCoord;
                 horaData = pHoraData;
             }

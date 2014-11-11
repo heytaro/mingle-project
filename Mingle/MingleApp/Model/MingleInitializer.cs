@@ -101,7 +101,7 @@ namespace MingleApp.Model
             Encontro e = new Encontro(0);
             e.titulo = "Pizzaria projeto";
             e.descricao = "Pizzaria com o pessoal do projeto";
-            e.local = "Mr. Pizzo";
+            e.local.nome = "Mr. Pizzo";
             e.horaData = new DateTime(2014, 10, 26, 16, 30, 0);
             e.convidados.Add(u2);
             e.convidados.Add(u3);
@@ -113,7 +113,7 @@ namespace MingleApp.Model
             e = new Encontro(1);
             e.titulo = "FDS Projeto";
             e.descricao = "Reunião pra fazer as coisas";
-            e.local = "Casa da Camila";
+            e.local.nome = "Casa da Camila";
             e.horaData = new DateTime(2014, 10, 30, 18, 30, 0);
             e.administrador = u2;
             u2.encontros.Add(e);
@@ -127,14 +127,14 @@ namespace MingleApp.Model
             e = new Encontro(2);
             e.titulo = "Paintball";
             e.descricao = "Foi tudo ideia da Girina";
-            e.local = "Paintball";
+            e.local.nome = "Paintball";
             e.horaData = new DateTime(2014, 11, 14, 20, 30, 0);
             e.administrador = u5;
 
             e = new Encontro(3);
             e.titulo = "Cinema";
             e.descricao = "Testando um evento de vdd no aplicativo";
-            e.local = "Cinépolis Ponta Negra";
+            e.local.nome = "Cinépolis Ponta Negra";
             e.horaData = new DateTime(2014, 11, 24, 15, 0, 0);
             e.administrador = u4;
             u4.encontros.Add(e);
@@ -161,7 +161,7 @@ namespace MingleApp.Model
             e.convidados = CreateUsers();
             e.titulo = "Pizzaria projeto";
             e.descricao = "Pizzaria com o pessoal do projeto";
-            e.local = "Mr. Pizzo";
+            e.local.nome = "Mr. Pizzo";
           // e.horaData.Add(new TimeSpan(-15, 5, 12, 3));
             lstRetorno.Add(e);
 
@@ -169,7 +169,7 @@ namespace MingleApp.Model
             e.convidados = CreateUsers();
             e.titulo = "FDS Projeto";
             e.descricao = "Reunião pra fazer as coisas";
-            e.local = "Casa da Camila";
+            e.local.nome = "Casa da Camila";
             //e.horaData = dt.Add(new TimeSpan(-5, -4, 33, 11));
             lstRetorno.Add(e);
 
@@ -177,7 +177,7 @@ namespace MingleApp.Model
             e.convidados = CreateUsers();
             e.titulo = "Paintball";
             e.descricao = "Foi tudo ideia da Girina";
-            e.local = "Paintball";
+            e.local.nome = "Paintball";
             //e.horaData = dt.Add(new TimeSpan(-30, -16, -55, 0));
             lstRetorno.Add(e);
 
@@ -185,7 +185,7 @@ namespace MingleApp.Model
             e.convidados = CreateUsers();
             e.titulo = "Cinema";
             e.descricao = "Testando um evento de vdd no aplicativo";
-            e.local = "Cinépolis Ponta Negra";
+            e.local.nome = "Cinépolis Ponta Negra";
             //e.horaData = dt.Add(new TimeSpan(50, 44, 13, 9));
             lstRetorno.Add(e);
 
@@ -193,7 +193,7 @@ namespace MingleApp.Model
             e.convidados = CreateUsers();
             e.titulo = "Aniversário!";
             e.descricao = "É aniversário de alguém em algum lugar, eu acho";
-            e.local = "Playarte Manauara";
+            e.local.nome = "Playarte Manauara";
             //e.horaData = dt.Add(new TimeSpan(17, 0, 0, 0));
             lstRetorno.Add(e);
 

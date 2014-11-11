@@ -26,7 +26,7 @@ namespace MingleApp.View
             lblDescricao.Text = app.novoEncontro.descricao;
             lblData.Text = app.novoEncontro.horaData.Date.ToShortDateString();
             lblHora.Text = app.novoEncontro.horaData.ToShortTimeString();
-            lblLocal.Text = app.novoEncontro.local;
+            lblLocal.Text = app.novoEncontro.local.nome;
 
             lstConvidados.ItemsSource = app.novoEncontro.convidados;
 

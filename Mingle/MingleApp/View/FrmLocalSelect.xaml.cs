@@ -18,6 +18,7 @@ using MingleApp.Model;
 using Microsoft.Phone.Maps.Toolkit;
 using Windows.Devices.Geolocation;
 using System.Text;
+using System.Windows.Media.Imaging;
 
 namespace MingleApp.View
 {
@@ -25,6 +26,7 @@ namespace MingleApp.View
     {
         MapManager mpMng = new MapManager();
         Boolean hasNamedLocal = false, hasPushpined = false;
+        Local local = new Local("","","","","","","");
 
         public FrmLocalSelect()
         {
@@ -60,12 +62,7 @@ namespace MingleApp.View
 
             map.Layers.Add(layer);
 
-            hasPushpined = true;
-            hasNamedLocal = false;
-            txtEndereco.Text = "Dê um nome para o local selecionado";
-            txtEndereco.Foreground = new SolidColorBrush(Colors.DarkGray);
         }
-
 
         async private void Map_Tap(object sender, System.Windows.Input.GestureEventArgs e)
         {
@@ -82,7 +79,9 @@ namespace MingleApp.View
                 var geoCodeResults = await query.GetMapLocationsAsync();
                 var address = geoCodeResults.First().Information.Address; 
 
-                this.newLayer(FormatAddress(address), geoposition);
+                this.newLayer(toLocal(address).toString(), geoposition);
+
+                this.local = toLocal(address);
             }
             catch (Exception ex)
             {
@@ -119,6 +118,13 @@ namespace MingleApp.View
 
             return sb.ToString();
         }
+        
+        private Local toLocal(MapAddress address)
+        {
+            Local l = new Local(address.City, address.Street, address.HouseNumber, address.StateCode, address.CountryCode, "", address.BuildingName);
+
+            return l;
+        }
 
         private string FormatCoordinates(Geoposition geoposition)
         {
@@ -127,8 +133,10 @@ namespace MingleApp.View
 
         private void Avancar_Click(object sender, EventArgs e)
         {
-            //PEGAR AS GEOCOORDENADAS
-            //avança p/ seleção de amigos
+            var app = (Application.Current as App);
+            app.appManager.novoEncontro = new Encontro();
+            app.appManager.novoEncontro.local = this.local;
+            //app.appManager.novoEncontro
             NavigationService.Navigate(new Uri("/View/FrmFriendListSelect.xaml", UriKind.Relative));
         }
 
@@ -149,8 +157,8 @@ namespace MingleApp.View
 
         private void newLayer(string content, GeoCoordinate s)
         {
-            map.Layers.Clear();
 
+            map.Layers.Clear();
             Point p = map.ConvertGeoCoordinateToViewportPoint(s);
             Pushpin local = new Pushpin();
             local.Content = content;
@@ -167,31 +175,33 @@ namespace MingleApp.View
             s = map.ConvertViewportPointToGeoCoordinate(p);
             local.GeoCoordinate = s;
             map.Layers.Add(layer1);
-
+            
             hasPushpined = true;
             hasNamedLocal = false;
+            txtEndereco.Text = "Dê um nome para o local selecionado";
+            txtEndereco.Foreground = new SolidColorBrush(Colors.DarkGray);
         }
 
-        private void txtEndereco_TextChanged(object sender, TextChangedEventArgs e)
+        private void txtEndereco_GotFocus(object sender, RoutedEventArgs e)
+        {
+            if ((txtEndereco.Text == "Marque no mapa o local do encontro") || (txtEndereco.Text == "Dê um nome para o local selecionado"))
+            {
+                txtEndereco.Text = "";
+            }
+        }
+
+        private void txtEndereco_LostFocus(object sender, RoutedEventArgs e)
         {
             if (txtEndereco.Text == "")
             {
-                txtEndereco.Foreground = new SolidColorBrush(Colors.Gray);
+                txtEndereco.Foreground = new SolidColorBrush(Colors.Purple);
                 if (!hasPushpined) txtEndereco.Text = "Marque no mapa o local do encontro";
                 if (hasPushpined)
                 {
                     txtEndereco.Text = "Dê um nome para o local selecionado";
-                    txtEndereco.Foreground = new SolidColorBrush(Colors.DarkGray);
+                    txtEndereco.Foreground = new SolidColorBrush(Colors.Green);
                 }
 
-            }
-            else
-            {                    
-                if (!(txtEndereco.Text == "Marque no mapa o local do encontro") && !(txtEndereco.Text == "Dê um nome para o local selecionado"))
-                {
-                    hasNamedLocal = true;
-                    txtEndereco.Foreground = new SolidColorBrush(Colors.Purple);
-                }
             }
         }
     }
