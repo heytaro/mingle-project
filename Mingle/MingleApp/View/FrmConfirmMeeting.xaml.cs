@@ -35,7 +35,7 @@ namespace MingleApp.View
 
             lblTitulo.Text = novoEncontroConfirm.titulo;
             lblDescricao.Text = novoEncontroConfirm.descricao;
-            lblLocal.Text = novoEncontroConfirm.local.nome;
+            lblLocal.Text = novoEncontroConfirm.local;
 
             lstConvidados.ItemsSource = novoEncontroConfirm.convidados;
         }

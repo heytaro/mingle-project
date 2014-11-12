@@ -18,13 +18,15 @@
     
     <Grid x:Name="LayoutRoot" Background="Transparent">
        <StackPanel x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <TextBox Name="txtEndereco" Text="Marque no mapa o local do encontro" Foreground ="Gray"  FontSize="25" Padding="5,0,0,0" VerticalContentAlignment="Bottom" Background="White" Height="72" Width="480" Margin="-12,0,0,0" HorizontalAlignment="Stretch" GotFocus="txtEndereco_GotFocus" LostFocus="txtEndereco_LostFocus"></TextBox>
+            <TextBox Name="txtEndereco" Text="Marque no mapa o local do encontro" Foreground ="Gray" LostFocus="txtEndereco_TextChanged" FontSize="25" Padding="5,0,0,0" VerticalContentAlignment="Bottom" Background="White" Height="72" Width="480" Margin="-12,0,0,0" HorizontalAlignment="Stretch"></TextBox>
             <maps:Map Name="map"  HorizontalAlignment="Stretch" Height="624" Hold="Map_Tap"/>            
         </StackPanel>
     </Grid>
     
     <phone:PhoneApplicationPage.ApplicationBar>
         <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <!--Pôr as imagens numa pasta certa-->
+            <shell:ApplicationBarIconButton IconUri="/Images/back.png" Click="Voltar_Click" Text="Voltar"/>
             <!-- Não sei se vai precisar desse. -->
             <shell:ApplicationBarIconButton IconUri="/Images/cancel.png" Click="Cancelar_Click" Text="Cancelar"/>
             <shell:ApplicationBarIconButton IconUri="/Images/next.png" Click="Avancar_Click" Text="Avançar"/>

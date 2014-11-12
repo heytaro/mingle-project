@@ -758,6 +758,7 @@ C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\mingle-project\Mingle\MingleA
 C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\mingle-project\Mingle\MingleApp\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
 C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\mingle-project\Mingle\MingleApp\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
 C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\mingle-project\Mingle\MingleApp\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\mingle-project\Mingle\MingleApp\obj\Debug\MingleApp.csprojResolveAssemblyReference.cache
 C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\mingle-project\Mingle\MingleApp\obj\Debug\Resources\App.g.cs
 C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\mingle-project\Mingle\MingleApp\obj\Debug\View\FrmMap.g.cs
 C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\mingle-project\Mingle\MingleApp\obj\Debug\View\FrmMeeting.g.cs
@@ -781,4 +782,3 @@ C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\mingle-project\Mingle\MingleA
 C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\mingle-project\Mingle\MingleApp\obj\Debug\MingleApp.dll
 C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\mingle-project\Mingle\MingleApp\obj\Debug\MingleApp.pdb
 C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\mingle-project\Mingle\MingleApp\obj\Debug\XapCacheFile.xml
-C:\Users\Usuário\Desktop\Projetos\API\DEVELOPMENT\mingle-project\Mingle\MingleApp\obj\Debug\MingleApp.csprojResolveAssemblyReference.cache

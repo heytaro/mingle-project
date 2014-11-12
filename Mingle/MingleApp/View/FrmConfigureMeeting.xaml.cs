@@ -33,9 +33,9 @@ namespace MingleApp.View
         {
             novoEncontroConfig.titulo = txtNomeEvento.Text;
             novoEncontroConfig.descricao = txtDescricaoEvento.Text;
-            novoEncontroConfig.local.nome = txtLocalEvento.Text;
+            novoEncontroConfig.local = txtLocalEvento.Text;
             //data e hora do dtpDataEvento e tpHoraEvento sendo passadas como parâmetro do construtor DateTime
-            novoEncontroConfig.horaData = new DateTime(100000000000000000);
+            novoEncontroConfig.horaData = ((DateTime)dtpDataEvento.Value).Date.Add(((DateTime)tpHoraEvento.Value).TimeOfDay);
 
             var app = (Application.Current as App);
             app.novoEncontro = novoEncontroConfig;
