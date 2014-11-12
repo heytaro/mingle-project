@@ -16,7 +16,10 @@
     shell:SystemTray.IsVisible="True">
 
     <!--LayoutRoot is the root grid where all page content is placed-->
-    <Grid x:Name="LayoutRoot" Background="Transparent">
+    <Grid x:Name="LayoutRoot" Style="{StaticResource LayoutGridStyle}">
+        <Grid.Background>
+            <ImageBrush ImageSource="/Images/bg.png" Stretch="UniformToFill"/>
+        </Grid.Background>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
@@ -24,14 +27,15 @@
 
         <!--TitlePanel contains the name of the application and page title-->
         <StackPanel Grid.Row="0" Margin="12,17,0,28">
-            <TextBlock Text="MINGLE!" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="Mingle!" Foreground="#FF1300" Style="{StaticResource PhoneTextNormalStyle}" FontFamily="{StaticResource PhoneFontFamilySemiBold}"/>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <maps:Map Name="itsMap">
+            <maps:Map Name="itsMap" Margin="10">
             </maps:Map>
         </Grid>
     </Grid>
+
 
 </phone:PhoneApplicationPage>

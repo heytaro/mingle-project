@@ -14,25 +14,28 @@
     shell:SystemTray.IsVisible="False">
 
     <!--LayoutRoot contains the root grid where all other page content is placed-->
-    <Grid x:Name="LayoutRoot">
+    <Grid x:Name="LayoutRoot" Style="{StaticResource LayoutGridStyle}">
+        <Grid.Background>
+            <ImageBrush ImageSource="/Images/bg.png" Stretch="UniformToFill"/>
+        </Grid.Background>
         <phone:Panorama Title="{Binding}" Name="panEncontro">
 
             <!--Panorama item one-->
-            <phone:PanoramaItem Header="Detalhes">
+            <phone:PanoramaItem Header="Detalhes" Foreground="#8C04A8">
                 <StackPanel Name="PanelDetalhes">
                     <TextBlock Text="{Binding}" Name="lblDescricao" Style="{StaticResource PhoneTextTitle3Style}"/>
-                    <TextBlock Text="Data" Style="{StaticResource PhoneTextNormalStyle}"/>
-                    <TextBlock Text="{Binding}" Name="lblData" Style="{StaticResource PhoneTextTitle2Style}"/>
-                    <TextBlock Text="Hora" Style="{StaticResource PhoneTextNormalStyle}"/>
-                    <TextBlock Text="{Binding}" Name="lblHora" Style="{StaticResource PhoneTextTitle2Style}"/>
-                    <TextBlock Text="Local" Style="{StaticResource PhoneTextNormalStyle}"/>
-                    <TextBlock Text="{Binding}" Name="lblLocal" Style="{StaticResource PhoneTextTitle2Style}"/>
-                    <TextBlock Text="Convidados" Style="{StaticResource PhoneTextNormalStyle}"/>
+                    <TextBlock Text="Data" Style="{StaticResource PhoneTextNormalStyle}" Foreground="#FF7A00" FontSize="30" FontFamily="{StaticResource PhoneFontFamilySemiBold}"/>
+                    <TextBlock Text="{Binding}" Name="lblData" Margin="50,0,0,0" Style="{StaticResource PhoneTextNormalStyle}"/>
+                    <TextBlock Text="Hora" Style="{StaticResource PhoneTextNormalStyle}" Foreground="#FFF3FF00" FontSize="30" FontFamily="{StaticResource PhoneFontFamilySemiBold}"/>
+                    <TextBlock Text="{Binding}" Name="lblHora" Margin="50,0,0,0" Style="{StaticResource PhoneTextNormalStyle}"/>
+                    <TextBlock Text="Local" Style="{StaticResource PhoneTextNormalStyle}" Foreground="#03899C" FontSize="30" FontFamily="{StaticResource PhoneFontFamilySemiBold}"/>
+                    <TextBlock Text="{Binding}" Name="lblLocal" Margin="50,0,0,0" Style="{StaticResource PhoneTextNormalStyle}"/>
+                    <TextBlock Text="Convidados" Style="{StaticResource PhoneTextNormalStyle}" Foreground="#FF1300" FontSize="30" FontFamily="{StaticResource PhoneFontFamilySemiBold}"/>
 
-                    <ListBox Name="lstConvidados" Height="270">
+                    <ListBox Name="lstConvidados" Height="270" Margin="50,0,0,0">
                         <ListBox.ItemTemplate>
                             <DataTemplate>
-                                <TextBlock Text="{Binding nome}" Style="{StaticResource PhoneTextTitle2Style}"/>
+                                <TextBlock Text="{Binding nome}" Style="{StaticResource PhoneTextNormalStyle}"/>
                             </DataTemplate>
                         </ListBox.ItemTemplate>
                     </ListBox>
@@ -40,18 +43,11 @@
             </phone:PanoramaItem>
 
             <!--Panorama item two-->
-            <phone:PanoramaItem Header="Fotos">
+            <phone:PanoramaItem Header="Fotos" Foreground="#FFF3FF00">
                 <!--Essa deixo a caso da Girina =p-->
                 <Grid/>
             </phone:PanoramaItem>
         </phone:Panorama>
     </Grid>
-
-    <phone:PhoneApplicationPage.ApplicationBar>
-        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
-            <!--Pôr as imagens numa pasta certa-->
-            <shell:ApplicationBarIconButton IconUri="/Images/back.png" Click="Voltar_Click" Text="Voltar"/>
-        </shell:ApplicationBar>
-    </phone:PhoneApplicationPage.ApplicationBar>
 
 </phone:PhoneApplicationPage>
