@@ -15,19 +15,19 @@
 
     <!--LayoutRoot is the root grid where all page content is placed-->
     <ScrollViewer>
-    <Grid x:Name="LayoutRoot" Background="Transparent">
-        <Grid.RowDefinitions>
+        <Grid x:Name="LayoutRoot" Style="{StaticResource LayoutGridStyle}">
+            <Grid.Background>
+                <ImageBrush ImageSource="/Images/bg.png" Stretch="UniformToFill"/>
+            </Grid.Background>
+            <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
         <!--TitlePanel contains the name of the application and page title-->
-        <StackPanel Grid.Row="0" Margin="12,17,0,28">
-            <TextBlock Style="{StaticResource PhoneTextNormalStyle}">
-            	<Run Text="M"/>
-            	<Run Text="ingle"/>
-            </TextBlock>
-            <TextBlock Text="Cadastro" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+            <StackPanel Grid.Row="0" Margin="12,17,0,28">
+                <TextBlock Text="Cadastro" Margin="60,0,60,0" 
+                      HorizontalAlignment="Center" Style="{StaticResource PhoneTextTitle1Style}"/>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->

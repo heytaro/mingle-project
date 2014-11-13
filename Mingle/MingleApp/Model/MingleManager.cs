@@ -13,19 +13,16 @@ namespace MingleApp.Model
        
         public List<Usuario> mingleUsers;
         public Usuario currentUser;
-        public ContatosUsuarios ContatoAtual;
         public Encontro novoEncontro;
-        public MingleManager()
-        {
-            
 
+        public MingleManager()
+        {  
             MingleInitializer mi = new MingleInitializer();
             mingleUsers = new List<Usuario>();
             this.mingleUsers = mi.CreateUsers();
             App thisApp = Application.Current as App;
             currentUser = null;
             novoEncontro = new Encontro();
-            ContatoAtual = null;
         }
 
         //método que retorna a lista de emails do Mingle

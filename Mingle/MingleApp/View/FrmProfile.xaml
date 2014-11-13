@@ -14,7 +14,10 @@
     shell:SystemTray.IsVisible="True">
 
     <!--LayoutRoot is the root grid where all page content is placed-->
-    <Grid x:Name="LayoutRoot" Background="Transparent">
+    <Grid x:Name="LayoutRoot" Style="{StaticResource LayoutGridStyle}">
+        <Grid.Background>
+            <ImageBrush ImageSource="/Images/bg.png" Stretch="UniformToFill"/>
+        </Grid.Background>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
@@ -22,14 +25,15 @@
 
         <!--TitlePanel contains the name of the application and page title-->
         <StackPanel Grid.Row="0" Margin="12,17,0,28">
-            <TextBlock Text="Mingle!" Foreground="LightPink" Style="{StaticResource PhoneTextNormalStyle}"/>
-            <TextBlock Text="Meu Perfil" Foreground="LightBlue" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+            <TextBlock Text="Mingle!" Foreground="#FF1300" Style="{StaticResource PhoneTextNormalStyle}" FontFamily="{StaticResource PhoneFontFamilySemiBold}"/>
+            <TextBlock Text="Meu Perfil" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"
+                       HorizontalAlignment="Center"/>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
         <StackPanel Orientation="Vertical" x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
             <StackPanel Orientation="Horizontal">
-                <Image x:Name="img" Height="140" Margin="10,0,0,0" VerticalAlignment="Top" Width="134" Stretch="None"/>
+                <Image x:Name="img" Stretch="UniformToFill" Height="140" Margin="10,0,0,0" VerticalAlignment="Top" Width="134" Source="{Binding}" />
                 <StackPanel Margin="20,0,0,0" Width="290" Orientation="Vertical">
                     <TextBlock x:Name="Nome_Usuario" FontSize="20" Margin="10,0,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="#FF91AA22" Height="40" />
                     <TextBlock x:Name="Email_Usuario" FontSize="20"  Margin="10,0,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Foreground="#FF91AA22" Height="40"/>
@@ -37,7 +41,8 @@
                 </StackPanel>
             </StackPanel>
             <StackPanel Margin="0,30,0,0" Orientation="Vertical">
-                <TextBlock Foreground="DeepSkyBlue" Text="Sua atividade no Mingle!" Margin="10,0,0,0" FontSize="30"></TextBlock>
+                <TextBlock Foreground="#03899C" Text="Sua atividade no Mingle!" 
+                           FontFamily="{StaticResource PhoneFontFamilySemiBold}" Margin="10,0,0,0" FontSize="30"></TextBlock>
                 <Grid>
                     <TextBlock HorizontalAlignment="Left" Text="N° de Encontros " Margin="10,0,0,0"></TextBlock>
                     <TextBlock  HorizontalAlignment="Right" Margin="0,0,20,0" Name="txtEncontro" Text="0"></TextBlock>
@@ -51,11 +56,13 @@
                     <TextBlock Margin="0,0,20,0" Name="txtFoto" HorizontalAlignment="Right" Text="0"></TextBlock>
                 </Grid>
                 <Grid>
-                    <TextBlock Name="txtTotal" Text="Total de pontos" Foreground="Yellow" Margin="10,20,0,0" Width="150" HorizontalAlignment="Left"></TextBlock>
-                    <TextBlock Margin="0,0,20,0" Text="0" HorizontalAlignment="Right"></TextBlock>
+                    <TextBlock Name="txtTotal" Text="Total de pontos" Foreground="Yellow" 
+                               FontFamily="{StaticResource PhoneFontFamilySemiBold}" Margin="10,20,0,0" Width="150" HorizontalAlignment="Left"></TextBlock>
+                    <TextBlock Margin="0,20,20,0" Text="0" HorizontalAlignment="Right"></TextBlock>
                 </Grid>
             </StackPanel>
         </StackPanel>
     </Grid>
+
 
 </phone:PhoneApplicationPage>

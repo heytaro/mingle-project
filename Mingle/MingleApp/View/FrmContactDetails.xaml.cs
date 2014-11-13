@@ -24,20 +24,17 @@ namespace MingleApp.View
 
         protected override void OnNavigatedFrom(NavigationEventArgs e)
         {
-            App thisApp = Application.Current as App;
-
-            thisApp.appManager.ContatoAtual = null;
-
         }
 
         public void PreencherCampos()
         {
             App thisApp = Application.Current as App;
-           //tentar colocar o numero e o email na pagina..
-            numero.Text = thisApp.appManager.ContatoAtual.telefone;
-            email.Text= thisApp.appManager.ContatoAtual.email;
+            nome.Text = thisApp.appManager.currentUser.nome;
+            numero.Text = thisApp.appManager.currentUser.Telefone;
+            email.Text = thisApp.appManager.currentUser.email;
+            imgProf.DataContext = thisApp.appManager.currentUser.fotoPerfil;
 
-            if (thisApp.appManager.ContatoAtual.telefone == "") MessageBox.Show("Não Cadastrado");
+            if (thisApp.appManager.currentUser.email == "") MessageBox.Show("Não Cadastrado");
         }
     }
 }
