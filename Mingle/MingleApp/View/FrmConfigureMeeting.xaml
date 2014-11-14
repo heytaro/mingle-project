@@ -50,9 +50,6 @@
                 <TextBlock Text="Hora" Style="{StaticResource PhoneTextNormalStyle}" 
                            FontFamily="{StaticResource PhoneFontFamilySemiBold}" FontSize="30" Foreground="#FFF3FF00"/>
                 <toolkit:TimePicker Name="tpHoraEvento"/>
-                <TextBlock Text="Local:" Style="{StaticResource PhoneTextNormalStyle}" 
-                           FontFamily="{StaticResource PhoneFontFamilySemiBold}" FontSize="30" Foreground="#03899C"/>
-                <TextBox Name="txtLocalEvento"/>
             </StackPanel>
         </Grid>
     </ScrollViewer>
