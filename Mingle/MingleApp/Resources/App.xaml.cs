@@ -65,8 +65,7 @@ namespace MingleApp
             }
             MingleInitializer ini = new MingleInitializer();
             mingleUser = ini.createMainUser();
-            appManager.mingleUsers = ini.CreateUsers();
-            appManager.mingleUsers.Add(this.mingleUser);
+            //appManager.mingleUsers = ini.CreateUsers();
             mingleUser.encontros = ini.CreateEncontros();
             appManager.listaLocais = ini.createLocais();
 

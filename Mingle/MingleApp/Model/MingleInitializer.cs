@@ -185,9 +185,13 @@ namespace MingleApp.Model
             mingleUser.email = "a@gmail.com";
             mingleUser.senha = "a123";
             mingleUser.amigos = this.CreateUsers();
-            mingleUser.atrasoScore = 200;
-            mingleUser.fotoScore = 900;
             mingleUser.encontros = this.CreateEncontros();
+            mingleUser.addAtrasoScore();
+            mingleUser.addCaronaScore();
+            mingleUser.addEncontroScore();
+            mingleUser.addEncontroScore();
+            mingleUser.addEncontroScore();
+            mingleUser.addFotoScore();
             mingleUser.fotoPerfil = "/Images/ProfilePictures/soudessas.png";
             return mingleUser;
         }

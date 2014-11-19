@@ -22,8 +22,9 @@ namespace MingleApp.Model
             MingleInitializer mi = new MingleInitializer();
             mingleUsers = new List<Usuario>();
             this.mingleUsers = mi.CreateUsers();
+            this.mingleUsers.Add(mi.createMainUser());
             App thisApp = Application.Current as App;
-            currentUser = null;
+     //       currentUser = null;
             novoEncontro = new Encontro();
         }
 

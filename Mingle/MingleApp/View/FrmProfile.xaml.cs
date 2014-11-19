@@ -37,10 +37,10 @@ namespace MingleApp.View
 
             img.DataContext = thisApp.mingleUser.fotoPerfil;
 
-            txtAtraso.Text = thisApp.appManager.currentUser.nAtrasos.ToString();
-            txtEncontro.Text = thisApp.appManager.currentUser.nEncontros.ToString();
-            txtFoto.Text = thisApp.appManager.currentUser.nFotos.ToString();
-            txtTotal.Text = thisApp.appManager.currentUser.getScore().ToString();
+            txtAtraso.Text = thisApp.mingleUser.getAtrasoScore().ToString();
+            txtEncontro.Text = thisApp.mingleUser.getEncontroScore().ToString();
+            txtFoto.Text = thisApp.mingleUser.getFotoScore().ToString();
+            txtTotal.Text = thisApp.mingleUser.getScore().ToString();
 
         }
 

@@ -56,9 +56,9 @@
                     <TextBlock Margin="0,0,20,0" Name="txtFoto" HorizontalAlignment="Right" Text="0"></TextBlock>
                 </Grid>
                 <Grid>
-                    <TextBlock Name="txtTotal" Text="Total de pontos" Foreground="Yellow" 
+                    <TextBlock Text="Total de pontos" Foreground="Yellow" 
                                FontFamily="{StaticResource PhoneFontFamilySemiBold}" Margin="10,20,0,0" Width="150" HorizontalAlignment="Left"></TextBlock>
-                    <TextBlock Margin="0,20,20,0" Text="0" HorizontalAlignment="Right"></TextBlock>
+                    <TextBlock Name="txtTotal" Margin="0,20,20,0" Text="0" HorizontalAlignment="Right"></TextBlock>
                 </Grid>
             </StackPanel>
         </StackPanel>
