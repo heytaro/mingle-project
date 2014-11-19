@@ -13,10 +13,14 @@
     SupportedOrientations="Portrait" Orientation="Portrait"
     mc:Ignorable="d"
     shell:SystemTray.IsVisible="True">
+    
 
     <!--LayoutRoot is the root grid where all page content is placed-->
     <ScrollViewer>
-        <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid x:Name="LayoutRoot" Style="{StaticResource LayoutGridStyle}">
+            <Grid.Background>
+                <ImageBrush ImageSource="/Images/bg.png" Stretch="UniformToFill"/>
+            </Grid.Background>
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto"/>
                 <RowDefinition Height="*"/>
@@ -24,32 +28,37 @@
 
             <!--TitlePanel contains the name of the application and page title-->
             <StackPanel Grid.Row="0" Margin="12,17,0,28">
-                <TextBlock Text="NOVO EVENTO" Style="{StaticResource PhoneTextNormalStyle}"/>
-                <TextBlock Text="Evento" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+                <TextBlock Text="Novo Evento" Style="{StaticResource PhoneTextNormalStyle}" Foreground="#8C04A8" FontFamily="{StaticResource PhoneFontFamilySemiBold}"/>
+                <TextBlock Text="Evento" Margin="60,0,60,0" Style="{StaticResource PhoneTextTitle1Style}" HorizontalAlignment="Center"/>
             </StackPanel>
 
             <!--ContentPanel - place additional content here-->
 
             <StackPanel x:Name="pnlConteudo" Grid.Row="1" Margin="12,0,12,0">
 
-                <TextBlock Text="Nome:" Style="{StaticResource PhoneTextNormalStyle}"/>
+                <TextBlock Text="Nome" Style="{StaticResource PhoneTextNormalStyle}" 
+                           FontFamily="{StaticResource PhoneFontFamilySemiBold}" FontSize="30" Foreground="#FF7A00"/>
                 <TextBox Name="txtNomeEvento"/>
-                <TextBlock Text="Descrição:" Style="{StaticResource PhoneTextNormalStyle}"/>
+                <TextBlock Text="Descrição" Style="{StaticResource PhoneTextNormalStyle}" 
+                           FontFamily="{StaticResource PhoneFontFamilySemiBold}" FontSize="30" Foreground="#FF1300"/>
                 <TextBox Name="txtDescricaoEvento"  Height="242" TextWrapping="Wrap"
                     AcceptsReturn="True"
                     VerticalScrollBarVisibility="Visible"/>
-                <TextBlock Text="Data:" Style="{StaticResource PhoneTextNormalStyle}"/>
+                <TextBlock Text="Data" Style="{StaticResource PhoneTextNormalStyle}" 
+                           FontFamily="{StaticResource PhoneFontFamilySemiBold}" FontSize="30" Foreground="#15DA00"/>
                 <toolkit:DatePicker Name="dtpDataEvento"/>
-                <TextBlock Text="Hora:" Style="{StaticResource PhoneTextNormalStyle}"/>
+                <TextBlock Text="Hora" Style="{StaticResource PhoneTextNormalStyle}" 
+                           FontFamily="{StaticResource PhoneFontFamilySemiBold}" FontSize="30" Foreground="#FFF3FF00"/>
                 <toolkit:TimePicker Name="tpHoraEvento"/>
-                <TextBlock Text="Local:" Style="{StaticResource PhoneTextNormalStyle}"/>
+                <TextBlock Text="Local:" Style="{StaticResource PhoneTextNormalStyle}" 
+                           FontFamily="{StaticResource PhoneFontFamilySemiBold}" FontSize="30" Foreground="#03899C"/>
                 <TextBox Name="txtLocalEvento"/>
             </StackPanel>
         </Grid>
     </ScrollViewer>
 
     <phone:PhoneApplicationPage.ApplicationBar>
-        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True" BackgroundColor="#D9921B">
             <!--Pôr as imagens numa pasta certa-->
             <shell:ApplicationBarIconButton IconUri="/Images/back.png" Click="Voltar_Click" Text="Voltar"/>
             <!-- Não sei se vai precisar desse. -->

@@ -15,27 +15,27 @@
 
     <!--LayoutRoot is the root grid where all page content is placed-->
     <ScrollViewer>
-    <Grid x:Name="LayoutRoot" Background="Transparent">
-        <Grid.RowDefinitions>
+        <Grid x:Name="LayoutRoot" Style="{StaticResource LayoutGridStyle}">
+            <Grid.Background>
+                <ImageBrush ImageSource="/Images/bg.png" Stretch="UniformToFill"/>
+            </Grid.Background>
+            <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
         <!--TitlePanel contains the name of the application and page title-->
-        <StackPanel Grid.Row="0" Margin="12,17,0,28">
-            <TextBlock Style="{StaticResource PhoneTextNormalStyle}">
-            	<Run Text="M"/>
-            	<Run Text="ingle"/>
-            </TextBlock>
-            <TextBlock Text="Cadastro" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+            <StackPanel Grid.Row="0" Margin="12,17,0,28">
+                <TextBlock Text="Cadastro" Margin="60,0,60,0" 
+                      HorizontalAlignment="Center" Style="{StaticResource PhoneTextTitle1Style}"/>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
 
             <StackPanel x:Name="ContentPanel" Margin="12,138,12,23" Orientation="Vertical">
                 <Grid>
-                    <Image x:Name="profileImg" HorizontalAlignment="Left" Margin="50,0,0,0" Source="/Assets/monster.png" Width="100" Height="100"></Image>
-                    <Button HorizontalAlignment="Right" Height="70" Margin="0,0,62,0" Content="Procurar" Click="Button_Click" ></Button>
+                    <Image x:Name="profileImg" HorizontalAlignment="Left" Margin="50,0,0,0" Source="/Images/default_large.png" Width="100" Height="100"/>
+                    <Button HorizontalAlignment="Right" Height="70" Margin="0,0,62,0" Content="Procurar" Click="Button_Click" Background="#D9921B" ></Button>
                 </Grid>
                 <TextBlock HorizontalAlignment="Left" Style="{StaticResource PhoneTextTitle2Style}" Margin="10,30,0,0" TextWrapping="Wrap" Text="Nome: " VerticalAlignment="Top"/>
                 <TextBox x:Name="Nome" HorizontalAlignment="Left" Height="72" Margin="0,0,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Width="456"/>
@@ -51,8 +51,8 @@
                     <CheckBox x:Name="Female" Click="checkFemale_Click" Margin="80,0,0,0" IsChecked="False" HorizontalAlignment="Right" FontSize="35" VerticalAlignment="Center" >F</CheckBox>
                 </StackPanel>
                 <Grid>
-                    <Button Content="Salvar" HorizontalAlignment="Left" Margin="0,20,0,0" VerticalAlignment="Top" Width="147" Click="Salvar"/>
-                    <Button Content="Cancelar" HorizontalAlignment="Right" Margin="0,20,0,0" VerticalAlignment="Top" Click="Cancelar"/>
+                    <Button Content="Salvar" HorizontalAlignment="Left" Margin="0,20,0,0" VerticalAlignment="Top" Width="147" Click="Salvar" Background="#D9921B"/>
+                    <Button Content="Cancelar" HorizontalAlignment="Right" Margin="0,20,0,0" VerticalAlignment="Top" Click="Cancelar" Background="#D9921B"/>
                 </Grid>
             </StackPanel>
     </Grid>

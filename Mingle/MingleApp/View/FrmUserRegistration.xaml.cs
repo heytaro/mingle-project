@@ -33,7 +33,7 @@ namespace MingleApp.View
             {
                 BitmapImage bi = new BitmapImage();
                 bi.SetSource(e.ChosenPhoto);
-                profileImg.Source = bi;
+                //profileImg.Source = bi;
             }
         }
         private void Salvar(object sender, RoutedEventArgs e)
@@ -71,7 +71,7 @@ namespace MingleApp.View
                     us.senha = txtSenha.Password;
                     us.sexo = "Masculino";
                     if (Boolean.Parse(Female.IsChecked.ToString())) us.sexo = "Feminino";
-                    us.fotoPerfil = profileImg;
+                    //us.fotoPerfil = profileImg;
 
                     thisApp.appManager.currentUser = us;
 

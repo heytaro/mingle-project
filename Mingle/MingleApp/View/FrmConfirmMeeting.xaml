@@ -15,7 +15,10 @@
 
     <!--LayoutRoot is the root grid where all page content is placed-->
 
-    <Grid x:Name="LayoutRoot" Background="Transparent">
+    <Grid x:Name="LayoutRoot" Style="{StaticResource LayoutGridStyle}">
+        <Grid.Background>
+            <ImageBrush ImageSource="/Images/bg.png" Stretch="UniformToFill"/>
+        </Grid.Background>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
@@ -24,8 +27,8 @@
         <!--TitlePanel contains the name of the application and page title-->
         <StackPanel Grid.Row="0" Margin="12,17,0,28">
             <!--Ver se eu posso fazer isso-->
-            <TextBlock Text="NOVO EVENTO" Style="{StaticResource PhoneTextNormalStyle}"/>
-            <TextBlock Name="lblTitulo" Text="{Binding}" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+            <TextBlock Text="Novo Evento" Style="{StaticResource PhoneTextNormalStyle}" Foreground="#8C04A8" FontFamily="{StaticResource PhoneFontFamilySemiBold}"/>
+            <TextBlock Name="lblTitulo" Text="{Binding}" Margin="0,0,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
@@ -33,18 +36,18 @@
         <StackPanel x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
 
             <TextBlock Text="{Binding}" Name="lblDescricao" Style="{StaticResource PhoneTextTitle3Style}"/>
-            <TextBlock Text="Data" Style="{StaticResource PhoneTextNormalStyle}"/>
-            <TextBlock Text="{Binding}" Name="lblData" Style="{StaticResource PhoneTextTitle2Style}"/>
-            <TextBlock Text="Hora" Style="{StaticResource PhoneTextNormalStyle}"/>
-            <TextBlock Text="{Binding}" Name="lblHora" Style="{StaticResource PhoneTextTitle2Style}"/>
-            <TextBlock Text="Local" Style="{StaticResource PhoneTextNormalStyle}"/>
-            <TextBlock Text="{Binding}" Name="lblLocal" Style="{StaticResource PhoneTextTitle2Style}"/>
-            <TextBlock Text="Convidados" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="Data" Style="{StaticResource PhoneTextNormalStyle}" Foreground="#FF7A00" FontSize="30" FontFamily="{StaticResource PhoneFontFamilySemiBold}"/>
+            <TextBlock Text="{Binding}" Name="lblData" Margin="50,0,0,0" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="Hora" Style="{StaticResource PhoneTextNormalStyle}" Foreground="#FFF3FF00" FontSize="30" FontFamily="{StaticResource PhoneFontFamilySemiBold}"/>
+            <TextBlock Text="{Binding}" Name="lblHora" Margin="50,0,0,0" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="Local" Style="{StaticResource PhoneTextNormalStyle}" Foreground="#03899C" FontSize="30" FontFamily="{StaticResource PhoneFontFamilySemiBold}"/>
+            <TextBlock Text="{Binding}" Name="lblLocal" Margin="50,0,0,0" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="Convidados" Style="{StaticResource PhoneTextNormalStyle}" Foreground="#FF1300" FontSize="30" FontFamily="{StaticResource PhoneFontFamilySemiBold}"/>
 
-            <ListBox Name="lstConvidados" Height="270">
+            <ListBox Name="lstConvidados" Height="270" Margin="50,0,0,0">
                 <ListBox.ItemTemplate>
                     <DataTemplate>
-                        <TextBlock Text="{Binding nome}" Style="{StaticResource PhoneTextTitle2Style}"/>
+                        <TextBlock Text="{Binding nome}" Style="{StaticResource PhoneTextNormalStyle}"/>
                     </DataTemplate>
                 </ListBox.ItemTemplate>
             </ListBox>
@@ -55,7 +58,7 @@
 
 
     <phone:PhoneApplicationPage.ApplicationBar>
-        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True" BackgroundColor="#D9921B">
             <!--Pôr as imagens numa pasta certa-->
             <shell:ApplicationBarIconButton IconUri="/Images/back.png" Click="Voltar_Click" Text="Voltar"/>
             <!-- Não sei se vai precisar desse. -->

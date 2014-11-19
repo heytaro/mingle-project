@@ -55,13 +55,14 @@ namespace MingleApp.View
                 txtPosicao.VerticalAlignment = VerticalAlignment.Center;
                 grd.Children.Add(txtPosicao);
 
-                
+                ///////////
                 Image img = new Image();
-                img.Source = new BitmapImage(new Uri("../Assets/woman.png", UriKind.RelativeOrAbsolute));
+                img.Source = new BitmapImage(new Uri(u.fotoPerfil, UriKind.RelativeOrAbsolute));
                 img.Width = 60;
                 img.Height = 60;
                 img.HorizontalAlignment = HorizontalAlignment.Left;
                 img.VerticalAlignment = VerticalAlignment.Center;
+                img.Stretch = Stretch.UniformToFill;
                 stackLine.Children.Add(img);
 
                 TextBlock txtNome = new TextBlock();
@@ -113,11 +114,12 @@ namespace MingleApp.View
 
 
                 Image img = new Image();
-                img.Source = new BitmapImage(new Uri("../Assets/woman.png", UriKind.RelativeOrAbsolute));
+                img.Source = new BitmapImage(new Uri(u.fotoPerfil, UriKind.RelativeOrAbsolute));
                 img.Width = 60;
                 img.Height = 60;
                 img.HorizontalAlignment = HorizontalAlignment.Left;
                 img.VerticalAlignment = VerticalAlignment.Center;
+                img.Stretch = Stretch.UniformToFill;
                 stackLine.Children.Add(img);
 
                 TextBlock txtNome = new TextBlock();
@@ -169,11 +171,12 @@ namespace MingleApp.View
 
 
                 Image img = new Image();
-                img.Source = new BitmapImage(new Uri("../Assets/woman.png", UriKind.RelativeOrAbsolute));
+                img.Source = new BitmapImage(new Uri(u.fotoPerfil, UriKind.RelativeOrAbsolute));
                 img.Width = 60;
                 img.Height = 60;
                 img.HorizontalAlignment = HorizontalAlignment.Left;
                 img.VerticalAlignment = VerticalAlignment.Center;
+                img.Stretch = Stretch.UniformToFill;
                 stackLine.Children.Add(img);
 
                 TextBlock txtNome = new TextBlock();
@@ -225,11 +228,12 @@ namespace MingleApp.View
 
 
                 Image img = new Image();
-                img.Source = new BitmapImage(new Uri("../Assets/woman.png", UriKind.RelativeOrAbsolute));
+                img.Source = new BitmapImage(new Uri(u.fotoPerfil, UriKind.RelativeOrAbsolute));
                 img.Width = 60;
                 img.Height = 60;
                 img.HorizontalAlignment = HorizontalAlignment.Left;
                 img.VerticalAlignment = VerticalAlignment.Center;
+                img.Stretch = Stretch.UniformToFill;
                 stackLine.Children.Add(img);
 
                 TextBlock txtNome = new TextBlock();
@@ -281,11 +285,12 @@ namespace MingleApp.View
 
 
                 Image img = new Image();
-                img.Source = new BitmapImage(new Uri("../Assets/woman.png", UriKind.RelativeOrAbsolute));
+                img.Source = new BitmapImage(new Uri(u.fotoPerfil, UriKind.RelativeOrAbsolute));
                 img.Width = 60;
                 img.Height = 60;
                 img.HorizontalAlignment = HorizontalAlignment.Left;
                 img.VerticalAlignment = VerticalAlignment.Center;
+                img.Stretch = Stretch.UniformToFill;
                 stackLine.Children.Add(img);
 
                 TextBlock txtNome = new TextBlock();
@@ -328,6 +333,11 @@ namespace MingleApp.View
                 }
             }
             return null;
+        }
+
+        private void Voltar_Click(object sender, EventArgs e)
+        {
+            NavigationService.GoBack();
         }
     
     }
