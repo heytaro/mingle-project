@@ -58,5 +58,10 @@ namespace MingleApp
         {
             NavigationService.Navigate(new Uri("/View/FrmProfile.xaml", UriKind.Relative));
         }
+
+        private void btnEventoNow_Tap(object sender, System.Windows.Input.GestureEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/View/FrmMeetingNow.xaml", UriKind.Relative));
+        }
     }
 }

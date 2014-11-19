@@ -9,12 +9,15 @@ using Microsoft.Phone.Shell;
 using MingleApp.Resources;
 using MingleApp.Model;
 using MingleApp;
+using System.Device.Location;
+using System.Collections.Generic;
 namespace MingleApp
 {
     public partial class App : Application
     {
         public MingleManager appManager = new MingleManager();
         public Encontro novoEncontro = new Encontro();
+        public Encontro encontroAtual = new Encontro();
         public Usuario mingleUser = new Usuario();
         /// <summary>
         /// Provides easy access to the root frame of the Phone Application.
@@ -63,6 +66,8 @@ namespace MingleApp
             appManager.mingleUsers = ini.CreateUsers();
             appManager.mingleUsers.Add(this.mingleUser);
             mingleUser.encontros = ini.CreateEncontros();
+            appManager.listaLocais = ini.createLocais();
+
 
         }
 

@@ -45,8 +45,6 @@
                        FontFamily="{StaticResource PhoneFontFamilySemiBold}"/>
             <TextBlock HorizontalAlignment="Left" Margin="10,202,0,0" Style="{StaticResource PhoneTextTitle2Style}" TextWrapping="Wrap" Text="Senha: " VerticalAlignment="Top" RenderTransformOrigin="-3.756,-8.296"/>
             <PasswordBox x:Name ="txtSenha" Password="a123" Height="72" Width="456" Margin="0,245,0,277"/>
-
-
         </Grid>
     </Grid>
 </phone:PhoneApplicationPage>

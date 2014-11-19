@@ -1,5 +1,4 @@
 ﻿<phone:PhoneApplicationPage
-    x:Class="MingleApp.View.FrmMap"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
@@ -7,6 +6,7 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:maps="clr-namespace:Microsoft.Phone.Maps.Controls;assembly=Microsoft.Phone.Maps"
+    x:Class="MingleApp.View.FrmMeetingNow"
     FontFamily="{StaticResource PhoneFontFamilyNormal}"
     FontSize="{StaticResource PhoneFontSizeNormal}"
     Foreground="{StaticResource PhoneForegroundBrush}"
@@ -26,15 +26,23 @@
 
         <!--TitlePanel contains the name of the application and page title-->
         <StackPanel Grid.Row="0" Margin="12,17,0,28">
-            <TextBlock Text="Mingle!" Foreground="#FF1300" Style="{StaticResource PhoneTextNormalStyle}" FontFamily="{StaticResource PhoneFontFamilySemiBold}"/>
+            <TextBlock Text="Mingle!" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="{Binding}" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <maps:Map Name="itsMap" Margin="10">
-            </maps:Map>
+
+            <maps:Map x:Name="MainMap" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top" Height="525" Width="439"/>
+
         </Grid>
     </Grid>
-
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True" BackgroundColor="#D9921B">
+            
+            <shell:ApplicationBarIconButton IconUri="/Images/cancel.png" Click="Sair_Click" Text="Sair"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/next.png" Click="ImLost_Click" Text="Estou Perdido!"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
 
 </phone:PhoneApplicationPage>

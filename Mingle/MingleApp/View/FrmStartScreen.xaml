@@ -41,30 +41,37 @@
 
 
         <Grid x:Name="ContentPanel" Grid.Row="1" 
-              ScrollViewer.VerticalScrollBarVisibility="Visible" Grid.ColumnSpan="3" >
+              ScrollViewer.VerticalScrollBarVisibility="Visible" Grid.ColumnSpan="4" >
             <ScrollViewer>
 
                 <Grid>
                     <toolkit:HubTile x:Name="btnEvento" Message="Veja sua lista de eventos!"
-        				Title="Evento" Tap="btnEvento_Tap" Margin="252,463,18,85" Size="Medium" Background="#8C04A8"
+        				Title="Evento" Tap="btnEvento_Tap" Margin="24,9,246,539" Size="Default" Background="#8C04A8"
                                     Source="/Images/StartScreenIcons/pin56.png"/>
-                    <toolkit:HubTile x:Name="btnGaleriaFotos"
-        				Title="Galeria" Tap="btnGaleriaFotos_Tap" Source="/Images/StartScreenIcons/camera87.png"
-        				Margin="24,463,246,85" Message="Veja as fotos de seus encontros passados!" Size="Medium" Cursor="Arrow" Background="#FFF3FF00"/>
                     <toolkit:HubTile x:Name="btnContatos" Source="/Images/StartScreenIcons/multiple25.png"
         				Title="Contatos" Tap="btnContatos_Tap"
-        				Margin="252,234,18,314" Message="Veja todos os seus amigos no Mingle!" Size="Medium" Cursor="Arrow" Background="#15DA00"/>
+        				Margin="252,9,18,539" Message="Veja todos os seus amigos no Mingle!" Size="Default" Cursor="Arrow" Background="#15DA00"/>
+                    <toolkit:HubTile x:Name="btnRanking" Message="Compare a pontuação de encontros entre todos os seus amigos!"
+        				Title="Ranking" Tap="btnRanking_Tap" Margin="24,234,246,314" Size="Default" Background="#FF7A00"
+                                     Source="/Images/StartScreenIcons/star175.png"/>
+                    <toolkit:HubTile x:Name="btnGaleriaFotos"
+        				Title="Galeria" Tap="btnGaleriaFotos_Tap" Source="/Images/StartScreenIcons/camera87.png"
+        				Margin="252,234,18,314" Message="Veja as fotos de seus encontros passados!" Size="Default" Cursor="Arrow" Background="#FFF3FF00"/>
+                   <toolkit:HubTile x:Name="btnPerfil" Tap="btnPerfil_Tap" Message="Visualize seu perfil como ele aparece aos seus amigos!"
+        				Title="Perfil" Margin="24,463,246,85" Size="Default" Background="#03899C"  TabNavigation="Once"
+                                     Source="/Images/StartScreenIcons/user82.png"/>
                     <toolkit:HubTile x:Name="btnMapa"
-        				Title="Mapa" Tap="btnMapa_Tap" Margin="24,234,246,314" Size="Medium" Background="#FF1300"
+        				Title="Mapa" Tap="btnMapa_Tap" Margin="252,463,18,85" Size="Default" Background="#FF1300"
                                      Message="Procure os pontos de encontro de seus amigos!"
                                      Source="/Images/StartScreenIcons/map105.png"
                                      />
-                    <toolkit:HubTile x:Name="btnRanking" Message="Compare a pontuação de encontros entre todos os seus amigos!"
-        				Title="Ranking" Tap="btnRanking_Tap" Margin="252,9,18,539" Size="Medium" Background="#FF7A00"
-                                     Source="/Images/StartScreenIcons/star175.png"/>
-                    <toolkit:HubTile x:Name="btnPerfil" Tap="btnPerfil_Tap" Message="Visualize seu perfil como ele aparece aos seus amigos!"
-        				Title="Perfil" Margin="24,9,246,539" Size="Medium" Background="#03899C"  TabNavigation="Once"
-                                     Source="/Images/StartScreenIcons/user82.png"/>
+                    <toolkit:HubTile x:Name="btnEventoNow" Margin="24,688,246,-140" Background="#fd5cd5"
+                                     Title="Agora" Message="Veja o encontro que está acontecendo agora!"
+                                     Source="/Images/StartScreenIcons/Enow.png" Tap="btnEventoNow_Tap">
+                        
+                    </toolkit:HubTile>
+   
+                    
 
                 </Grid>
 

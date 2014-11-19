@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Device.Location;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -151,7 +152,7 @@ namespace MingleApp.Model
             e.convidados = CreateUsers();
             e.titulo = "Cinema";
             e.descricao = "Anabelle, sessão de 16:15";
-            e.local = "Cinépolis Ponta Negra";
+            e.local = "Shopping Ponta Negra";
             e.horaData.AddYears(2014);
             e.horaData.AddMonths(9);
             e.horaData.AddDays(3);
@@ -162,7 +163,7 @@ namespace MingleApp.Model
             e.convidados = CreateUsers();
             e.titulo = "Aniversário!";
             e.descricao = "É aniversário de alguém em algum lugar, eu acho";
-            e.local = "Playarte Manauara";
+            e.local = "Shopping Manauara";
             e.horaData.AddYears(2014);
             e.horaData.AddMonths(10);
             e.horaData.AddDays(22);
@@ -185,6 +186,20 @@ namespace MingleApp.Model
             mingleUser.encontros = this.CreateEncontros();
             mingleUser.fotoPerfil = "/Images/ProfilePictures/soudessas.png";
             return mingleUser;
+        }
+
+        public List<Local> createLocais()
+        {
+            List<Local> listaEstaticaDeLocais = new List<Local>();
+
+            listaEstaticaDeLocais.Add(new Local(new GeoCoordinate(-3.130278, -60.023333), "Mr. Pizzo"));
+            listaEstaticaDeLocais.Add(new Local(new GeoCoordinate(-3.134785, -60.016241), "Casa da Camila"));
+            listaEstaticaDeLocais.Add(new Local(new GeoCoordinate(-3.135899, -60.016803),"Paintball"));
+            listaEstaticaDeLocais.Add(new Local(new GeoCoordinate (-3.071632, -59.981144), "Shopping Ponta Negra"));
+            listaEstaticaDeLocais.Add(new Local(new GeoCoordinate(-3.134311, -60.022693), "Shopping Manauara"));
+            listaEstaticaDeLocais.Add(new Local(new GeoCoordinate(-3.048847, -60.033249), "Casa da Yasmim"));
+
+            return listaEstaticaDeLocais;
         }
 
     }

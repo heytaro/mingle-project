@@ -12,8 +12,10 @@ namespace MingleApp.Model
     {
        
         public List<Usuario> mingleUsers;
+        public List<Local> mingleLocals;
         public Usuario currentUser;
         public Encontro novoEncontro;
+        public List<Local> listaLocais;
 
         public MingleManager()
         {  
