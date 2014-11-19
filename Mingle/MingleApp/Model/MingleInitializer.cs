@@ -118,7 +118,7 @@ namespace MingleApp.Model
             e.convidados = CreateUsers();
             e.titulo = "Pizzaria projeto";
             e.descricao = "Pizzaria com o pessoal do projeto";
-            e.local.nome = "Mr. Pizzo";
+            e.local = "Mr. Pizzo";
             e.horaData.AddYears(2014);
             e.horaData.AddMonths(5);
             e.horaData.AddDays(9);
@@ -129,7 +129,7 @@ namespace MingleApp.Model
             e.convidados = CreateUsers();
             e.titulo = "FDS Projeto";
             e.descricao = "Reunião pra fazer as coisas";
-            e.local.nome = "Casa da Camila";
+            e.local = "Casa da Camila";
             e.horaData.AddYears(2014);
             e.horaData.AddMonths(6);
             e.horaData.AddDays(17);
@@ -140,7 +140,7 @@ namespace MingleApp.Model
             e.convidados = CreateUsers();
             e.titulo = "Paintball";
             e.descricao = "Foi tudo ideia da Girina";
-            e.local.nome= "Paintball";
+            e.local = "Paintball";
             e.horaData.AddYears(2014);
             e.horaData.AddMonths(6);
             e.horaData.AddDays(19);
@@ -151,7 +151,7 @@ namespace MingleApp.Model
             e.convidados = CreateUsers();
             e.titulo = "Cinema";
             e.descricao = "Anabelle, sessão de 16:15";
-            e.local.nome = "Cinépolis Ponta Negra";
+            e.local = "Cinépolis Ponta Negra";
             e.horaData.AddYears(2014);
             e.horaData.AddMonths(9);
             e.horaData.AddDays(3);
@@ -162,7 +162,7 @@ namespace MingleApp.Model
             e.convidados = CreateUsers();
             e.titulo = "Aniversário!";
             e.descricao = "É aniversário de alguém em algum lugar, eu acho";
-            e.local.nome = "Playarte Manauara";
+            e.local = "Playarte Manauara";
             e.horaData.AddYears(2014);
             e.horaData.AddMonths(10);
             e.horaData.AddDays(22);

@@ -35,7 +35,7 @@ namespace MingleApp.View
 
             lblTitulo.Text = novoEncontroConfirm.titulo;
             lblDescricao.Text = novoEncontroConfirm.descricao;
-            lblLocal.Text = novoEncontroConfirm.local.nome;
+            lblLocal.Text = novoEncontroConfirm.local;
 
             lstConvidados.ItemsSource = novoEncontroConfirm.convidados;
         }
@@ -48,7 +48,7 @@ namespace MingleApp.View
             app.mingleUser.encontros.Add(app.novoEncontro);
             //EXIBE MESSAGE BOX
             MessageBox.Show("Evento adicionado com sucesso!");
-            NavigationService.Navigate(new Uri("/View/FrmListMeeting.xaml", UriKind.Relative));
+            NavigationService.Navigate(new Uri("/View/FrmStartScreen.xaml", UriKind.Relative));
         }
 
         private void Cancelar_Click(object sender, EventArgs e)
