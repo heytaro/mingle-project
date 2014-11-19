@@ -47,8 +47,7 @@ namespace MingleApp.View
 
         private void Sair_Click(object sender, EventArgs e)
         {
-            var app = (Application.Current as App);
-            
+            NavigationService.Navigate(new Uri("/View/FrmResultMeeting.xaml", UriKind.Relative));            
         }
 
         private void ImLost_Click(object sender, EventArgs e)

@@ -871,3 +871,4 @@ C:\Users\ANA MARQUES\Desktop\MingleProject - Copia\Mingle\MingleApp\obj\Debug\Mi
 C:\Users\ANA MARQUES\Desktop\MingleProject - Copia\Mingle\MingleApp\obj\Debug\MingleApp.dll
 C:\Users\ANA MARQUES\Desktop\MingleProject - Copia\Mingle\MingleApp\obj\Debug\MingleApp.pdb
 C:\Users\ANA MARQUES\Desktop\MingleProject - Copia\Mingle\MingleApp\obj\Debug\XapCacheFile.xml
+C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\obj\Debug\View\FrmResultMeeting.g.cs

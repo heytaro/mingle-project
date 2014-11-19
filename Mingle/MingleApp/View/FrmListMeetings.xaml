@@ -99,7 +99,6 @@
 
     <phone:PhoneApplicationPage.ApplicationBar>
         <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True" BackgroundColor="#D9921B">
-            <shell:ApplicationBarIconButton IconUri="/Images/back.png" Click="Voltar_Click" Text="Voltar"/>
             <shell:ApplicationBarIconButton IconUri="/Images/new.png" Click="NovoEvento_Click" Text="Novo"/>
         </shell:ApplicationBar>
     </phone:PhoneApplicationPage.ApplicationBar>

@@ -138,6 +138,9 @@
     <Compile Include="View\FrmMeetingNow.xaml.cs">
       <DependentUpon>FrmMeetingNow.xaml</DependentUpon>
     </Compile>
+    <Compile Include="View\FrmResultMeeting.xaml.cs">
+      <DependentUpon>FrmResultMeeting.xaml</DependentUpon>
+    </Compile>
     <Compile Include="View\FrmStartScreen.xaml.cs">
       <DependentUpon>FrmStartScreen.xaml</DependentUpon>
     </Compile>
@@ -210,6 +213,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="View\FrmMeetingNow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\FrmResultMeeting.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

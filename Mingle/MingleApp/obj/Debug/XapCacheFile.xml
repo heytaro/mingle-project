@@ -1,7 +1,7 @@
-﻿<xapCache source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Bin\Debug\MingleApp_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="19/11/2014 02:14:35">
-  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\obj\Debug\MingleApp.dll" archivePath="MingleApp.dll" lastWriteTime="19/11/2014 02:14:32" />
+﻿<xapCache source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Bin\Debug\MingleApp_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="19/11/2014 06:07:16">
+  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\obj\Debug\MingleApp.dll" archivePath="MingleApp.dll" lastWriteTime="19/11/2014 06:07:14" />
   <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="06/11/2014 20:53:35" />
-  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Assets\pin56.png" archivePath="Assets\pin56.png" lastWriteTime="18/11/2014 23:11:49" />
+  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Assets\pin56.png" archivePath="Assets\pin56.png" lastWriteTime="19/11/2014 04:40:09" />
   <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="06/11/2014 20:53:35" />
   <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="06/11/2014 20:53:35" />
   <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="06/11/2014 20:53:35" />
@@ -9,28 +9,28 @@
   <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Icons\add.png" archivePath="Icons\add.png" lastWriteTime="06/11/2014 20:53:37" />
   <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\a.jpg" archivePath="Images\a.jpg" lastWriteTime="06/11/2014 20:53:37" />
   <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\back.png" archivePath="Images\back.png" lastWriteTime="06/11/2014 20:53:37" />
-  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\bg.png" archivePath="Images\bg.png" lastWriteTime="06/11/2014 22:34:08" />
+  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\bg.png" archivePath="Images\bg.png" lastWriteTime="19/11/2014 04:40:09" />
   <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\cancel.png" archivePath="Images\cancel.png" lastWriteTime="06/11/2014 20:53:37" />
   <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\check.png" archivePath="Images\check.png" lastWriteTime="06/11/2014 20:53:37" />
-  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\default_large.png" archivePath="Images\default_large.png" lastWriteTime="18/11/2014 19:17:52" />
+  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\default_large.png" archivePath="Images\default_large.png" lastWriteTime="19/11/2014 04:40:09" />
   <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\feature.search.png" archivePath="Images\feature.search.png" lastWriteTime="06/11/2014 20:53:37" />
   <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\new.png" archivePath="Images\new.png" lastWriteTime="06/11/2014 20:53:37" />
   <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\next.png" archivePath="Images\next.png" lastWriteTime="06/11/2014 20:53:37" />
-  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\ProfilePictures\soudessas.png" archivePath="Images\ProfilePictures\soudessas.png" lastWriteTime="07/11/2014 14:12:15" />
-  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\ProfilePictures\u1.jpg" archivePath="Images\ProfilePictures\u1.jpg" lastWriteTime="07/11/2014 14:34:26" />
-  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\ProfilePictures\u2.png" archivePath="Images\ProfilePictures\u2.png" lastWriteTime="07/11/2014 14:34:26" />
-  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\ProfilePictures\u3.jpg" archivePath="Images\ProfilePictures\u3.jpg" lastWriteTime="07/11/2014 14:34:26" />
-  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\ProfilePictures\u4.jpg" archivePath="Images\ProfilePictures\u4.jpg" lastWriteTime="07/11/2014 14:34:26" />
-  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\ProfilePictures\u5.jpg" archivePath="Images\ProfilePictures\u5.jpg" lastWriteTime="07/11/2014 14:50:12" />
-  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\ProfilePictures\u6.jpg" archivePath="Images\ProfilePictures\u6.jpg" lastWriteTime="07/11/2014 14:50:12" />
-  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\StartScreenIcons\boy46.png" archivePath="Images\StartScreenIcons\boy46.png" lastWriteTime="07/11/2014 04:15:34" />
-  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\StartScreenIcons\camera87.png" archivePath="Images\StartScreenIcons\camera87.png" lastWriteTime="07/11/2014 04:15:34" />
-  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\StartScreenIcons\map105.png" archivePath="Images\StartScreenIcons\map105.png" lastWriteTime="07/11/2014 04:15:34" />
-  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\StartScreenIcons\multiple25.png" archivePath="Images\StartScreenIcons\multiple25.png" lastWriteTime="07/11/2014 04:15:34" />
-  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\StartScreenIcons\pin56.png" archivePath="Images\StartScreenIcons\pin56.png" lastWriteTime="07/11/2014 04:15:34" />
-  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\StartScreenIcons\Enow.png" archivePath="Images\StartScreenIcons\Enow.png" lastWriteTime="07/11/2014 04:15:34" />
-  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\StartScreenIcons\star175.png" archivePath="Images\StartScreenIcons\star175.png" lastWriteTime="07/11/2014 04:15:34" />
-  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\StartScreenIcons\user82.png" archivePath="Images\StartScreenIcons\user82.png" lastWriteTime="07/11/2014 04:15:34" />
+  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\ProfilePictures\soudessas.png" archivePath="Images\ProfilePictures\soudessas.png" lastWriteTime="19/11/2014 04:40:09" />
+  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\ProfilePictures\u1.jpg" archivePath="Images\ProfilePictures\u1.jpg" lastWriteTime="19/11/2014 04:40:09" />
+  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\ProfilePictures\u2.png" archivePath="Images\ProfilePictures\u2.png" lastWriteTime="19/11/2014 04:40:09" />
+  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\ProfilePictures\u3.jpg" archivePath="Images\ProfilePictures\u3.jpg" lastWriteTime="19/11/2014 04:40:09" />
+  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\ProfilePictures\u4.jpg" archivePath="Images\ProfilePictures\u4.jpg" lastWriteTime="19/11/2014 04:40:09" />
+  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\ProfilePictures\u5.jpg" archivePath="Images\ProfilePictures\u5.jpg" lastWriteTime="19/11/2014 04:40:09" />
+  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\ProfilePictures\u6.jpg" archivePath="Images\ProfilePictures\u6.jpg" lastWriteTime="19/11/2014 04:40:09" />
+  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\StartScreenIcons\boy46.png" archivePath="Images\StartScreenIcons\boy46.png" lastWriteTime="19/11/2014 04:40:09" />
+  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\StartScreenIcons\camera87.png" archivePath="Images\StartScreenIcons\camera87.png" lastWriteTime="19/11/2014 04:40:09" />
+  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\StartScreenIcons\map105.png" archivePath="Images\StartScreenIcons\map105.png" lastWriteTime="19/11/2014 04:40:09" />
+  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\StartScreenIcons\multiple25.png" archivePath="Images\StartScreenIcons\multiple25.png" lastWriteTime="19/11/2014 04:40:09" />
+  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\StartScreenIcons\pin56.png" archivePath="Images\StartScreenIcons\pin56.png" lastWriteTime="19/11/2014 04:40:09" />
+  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\StartScreenIcons\Enow.png" archivePath="Images\StartScreenIcons\Enow.png" lastWriteTime="19/11/2014 04:40:09" />
+  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\StartScreenIcons\star175.png" archivePath="Images\StartScreenIcons\star175.png" lastWriteTime="19/11/2014 04:40:09" />
+  <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Images\StartScreenIcons\user82.png" archivePath="Images\StartScreenIcons\user82.png" lastWriteTime="19/11/2014 04:40:09" />
   <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\README_FIRST.txt" archivePath="README_FIRST.txt" lastWriteTime="06/11/2014 20:53:37" />
   <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Toolkit.Content\ApplicationBar.Add.png" archivePath="Toolkit.Content\ApplicationBar.Add.png" lastWriteTime="06/11/2014 20:53:37" />
   <file source="C:\Users\ANA MARQUES\Desktop\MingleProject\Mingle\MingleApp\Toolkit.Content\ApplicationBar.Cancel.png" archivePath="Toolkit.Content\ApplicationBar.Cancel.png" lastWriteTime="06/11/2014 20:53:37" />
