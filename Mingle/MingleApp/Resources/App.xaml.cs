@@ -18,6 +18,8 @@ namespace MingleApp
         public MingleManager appManager = new MingleManager();
         public Encontro novoEncontro = new Encontro();
         public Encontro encontroAtual = new Encontro();
+        public Encontro encontroNow = new Encontro();
+        public List<Local> cordAmigos = new List<Local>();
         public Usuario mingleUser = new Usuario();
         /// <summary>
         /// Provides easy access to the root frame of the Phone Application.
@@ -68,6 +70,7 @@ namespace MingleApp
             mingleUser.encontros = ini.CreateEncontros();
             appManager.listaLocais = ini.createLocais();
 
+            ini.createMeetingNowData(cordAmigos, encontroNow);
 
         }
 

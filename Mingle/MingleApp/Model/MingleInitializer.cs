@@ -6,11 +6,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Controls;
 using System.Windows.Media.Imaging;
+using Windows.Devices.Geolocation;
 
 namespace MingleApp.Model
 {
     public class MingleInitializer
     {
+
+        private GeoCoordinate geo;
+
         //ISSO É PROS AMIGOS DO MAINUSER
 
         public List<Usuario> CreateUsers()
@@ -192,14 +196,55 @@ namespace MingleApp.Model
         {
             List<Local> listaEstaticaDeLocais = new List<Local>();
 
-            listaEstaticaDeLocais.Add(new Local(new GeoCoordinate(-3.130278, -60.023333), "Mr. Pizzo"));
+            listaEstaticaDeLocais.Add(new Local(new GeoCoordinate(-3.132086, -60.004552), "Mr. Pizzo"));
             listaEstaticaDeLocais.Add(new Local(new GeoCoordinate(-3.134785, -60.016241), "Casa da Camila"));
             listaEstaticaDeLocais.Add(new Local(new GeoCoordinate(-3.135899, -60.016803),"Paintball"));
-            listaEstaticaDeLocais.Add(new Local(new GeoCoordinate (-3.071632, -59.981144), "Shopping Ponta Negra"));
-            listaEstaticaDeLocais.Add(new Local(new GeoCoordinate(-3.134311, -60.022693), "Shopping Manauara"));
+            listaEstaticaDeLocais.Add(new Local(new GeoCoordinate(-3.084484, -60.072394), "Shopping Ponta Negra"));
+            listaEstaticaDeLocais.Add(new Local(new GeoCoordinate(-3.104427, -60.013581), "Shopping Manauara"));
             listaEstaticaDeLocais.Add(new Local(new GeoCoordinate(-3.048847, -60.033249), "Casa da Yasmim"));
 
             return listaEstaticaDeLocais;
+        }
+
+        public void createMeetingNowData(List<Local> posicaoAmigos, Encontro eNow)
+        {
+            eNow.titulo = "Fentec";
+            eNow.descricao = "Feira de projetos da Fundação Nokia, terceiro ano de 2014";
+            eNow.horaData = new DateTime();
+            eNow.horaData.AddYears(2013);
+            eNow.horaData.AddMonths(10);
+            eNow.horaData.AddDays(18);
+            eNow.horaData.Add(new TimeSpan(7, 30, 0));
+            eNow.local = "Studio 5";
+            eNow.convidados = this.CreateUsers();
+            eNow.convidados.RemoveAt(0);
+            eNow.convidados.RemoveAt(2);
+            eNow.convidados.RemoveAt(2);
+            eNow.convidados.RemoveAt(2);
+            eNow.convidados.Add(this.createMainUser());
+            eNow.coordenadas = new GeoCoordinate(-3.124456, -59.983383);
+
+            List<GeoCoordinate> lstCordAmigos = new List<GeoCoordinate>();
+            lstCordAmigos.Add(new GeoCoordinate(-3.134641, -59.97926));
+            lstCordAmigos.Add(new GeoCoordinate(-3.134662, -59.987702));
+            lstCordAmigos.Add(new GeoCoordinate(-3.124456, -59.983383));
+            //lstCordAmigos.Add(geo);
+
+            for (int i = 0; i < 3; i++)
+            {
+                posicaoAmigos.Add(new Local(lstCordAmigos[i], eNow.convidados[i].nome));
+            }
+        }
+
+        async public void myLocation()
+        {
+            MapManager mpMng = new MapManager();
+            Geolocator myGeolocator = new Geolocator();
+            Geoposition myGeoposition = await myGeolocator.GetGeopositionAsync();
+            Geocoordinate myGeocoordinate = myGeoposition.Coordinate;
+            GeoCoordinate myGeoCoordinate = mpMng.ConvertGeocoordinate(myGeocoordinate);
+
+            geo = myGeoCoordinate;
         }
 
     }

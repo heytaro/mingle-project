@@ -26,8 +26,8 @@
 
         <!--TitlePanel contains the name of the application and page title-->
         <StackPanel Grid.Row="0" Margin="12,17,0,28">
-            <TextBlock Text="Mingle!" Style="{StaticResource PhoneTextNormalStyle}"/>
-            <TextBlock Text="{Binding}" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+            <TextBlock Text="Mingle!" Foreground="#FF1300" Style="{StaticResource PhoneTextNormalStyle}" FontFamily="{StaticResource PhoneFontFamilySemiBold}"/>
+            <TextBlock Name="txtTitulo" Text="{Binding}" Margin="60,0,60,0" Style="{StaticResource PhoneTextTitle1Style}" HorizontalAlignment="Center"/>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
