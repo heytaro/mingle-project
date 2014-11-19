@@ -56,10 +56,5 @@ namespace MingleApp.View
             NavigationService.Navigate(new Uri("/View/FrmMeetingDetails.xaml", UriKind.Relative));
         }
 
-        private void Voltar_Click(object sender, EventArgs e)
-        {
-            NavigationService.GoBack();
-        }
-
     }
 }

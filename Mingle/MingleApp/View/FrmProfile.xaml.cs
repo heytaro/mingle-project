@@ -26,16 +26,16 @@ namespace MingleApp.View
             
             App thisApp = Application.Current as App;
 
-            Nome_Usuario.Text = thisApp.mingleUser.nome;
+            Nome_Usuario.Text = thisApp.appManager.currentUser.nome;
            
-            Email_Usuario.Text = thisApp.mingleUser.email;
-            if (thisApp.mingleUser.Telefone != "")
+            Email_Usuario.Text = thisApp.appManager.currentUser.email;
+            if (thisApp.appManager.currentUser.Telefone != "")
             {
                 Telefone_Usuario.Text = thisApp.appManager.currentUser.Telefone;
             }
             else Telefone_Usuario.Text = "Não Cadastrado";
 
-            img.DataContext = thisApp.mingleUser.fotoPerfil;
+            img.Source = thisApp.appManager.currentUser.fotoPerfil.Source;
 
             txtAtraso.Text = thisApp.appManager.currentUser.nAtrasos.ToString();
             txtEncontro.Text = thisApp.appManager.currentUser.nEncontros.ToString();
@@ -43,7 +43,7 @@ namespace MingleApp.View
             txtTotal.Text = thisApp.appManager.currentUser.getScore().ToString();
 
         }
-
+           
 
     }
 }

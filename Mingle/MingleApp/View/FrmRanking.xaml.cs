@@ -329,11 +329,6 @@ namespace MingleApp.View
             }
             return null;
         }
-
-        private void Voltar_Click(object sender, EventArgs e)
-        {
-            NavigationService.GoBack();
-        }
     
     }
     

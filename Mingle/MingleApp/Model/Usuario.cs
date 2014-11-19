@@ -19,7 +19,7 @@ namespace MingleApp.Model
         public String email;
         public String senha ;
         public String Telefone;
-        public String fotoPerfil;
+        public Image fotoPerfil;
         public int encontroScore;
         public int fotoScore;
         public int caronaScore;
@@ -53,7 +53,7 @@ namespace MingleApp.Model
             amigos = new List<Usuario>();
             encontros = new List<Encontro>();
             fotos = new List<Image>();
-            fotoPerfil = String.Empty;
+            fotoPerfil = new Image();
 
         }
 

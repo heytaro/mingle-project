@@ -58,7 +58,7 @@
         <DataTemplate x:Key="ContatosItemTemplate">
             <StackPanel Orientation="Horizontal" >
 
-                <TextBlock Text="{Binding nome}" FontSize="30"  />
+                <TextBlock Text="{Binding Name}" FontSize="30"  />
                 <!--<TextBlock Text="{Binding telefone}" Margin="10,0,0,0" FontSize="30" />-->
                 <!-- <TextBlock Text="{Binding email}" Margin="10,0,0,0" FontSize="30" />-->
             </StackPanel>
@@ -66,30 +66,16 @@
 
     </phone:PhoneApplicationPage.Resources>
 
-        <Grid x:Name="LayoutRoot" Style="{StaticResource LayoutGridStyle}">
-            <Grid.Background>
-                <ImageBrush ImageSource="/Images/bg.png" Stretch="UniformToFill"/>
-            </Grid.Background>
-            <Grid.RowDefinitions>
-                <RowDefinition Height="Auto"/>
-                <RowDefinition Height="*"/>
-            </Grid.RowDefinitions>
-
-            <!--TitlePanel contains the name of the application and page title-->
-            <StackPanel Grid.Row="0" Margin="12,17,0,28">
-                <TextBlock Text="Mingle!" Foreground="#FF1300" Style="{StaticResource PhoneTextNormalStyle}" FontFamily="{StaticResource PhoneFontFamilySemiBold}"/>
-                <TextBlock Text="Contatos" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" HorizontalAlignment="Center"/>
-            </StackPanel>
-
-            <Grid x:Name="ContentPane" Grid.Row="1" Margin="12,0,12,0">
-                <phone:LongListSelector x:Name="llsContatos"
-                IsGroupingEnabled="True"
-                HideEmptyGroups="True"
-                GroupHeaderTemplate="{StaticResource ContatosGroupHeaderTemplate}"
-                ItemTemplate="{StaticResource ContatosItemTemplate}"
-                JumpListStyle="{StaticResource ContatosJumpListStyle}" SelectionChanged="llsContatos_SelectionChanged_1" Margin="6,30,-6,0" />
-            </Grid>
-        </Grid>
-
+    <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+        <phone:LongListSelector x:Name="llsContatos"
+         IsGroupingEnabled="True"
+         HideEmptyGroups="True"
+         GroupHeaderTemplate="{StaticResource ContatosGroupHeaderTemplate}"
+         ItemTemplate="{StaticResource ContatosItemTemplate}"
+         JumpListStyle="{StaticResource ContatosJumpListStyle}" SelectionChanged="llsContatos_SelectionChanged_1" Margin="6,90,-6,0" />
+        <StackPanel>
+            <TextBlock Text="Contatos" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+    </Grid>
 
 </phone:PhoneApplicationPage>

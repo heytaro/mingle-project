@@ -59,9 +59,8 @@ namespace MingleApp
                 PhoneApplicationService.Current.UserIdleDetectionMode = IdleDetectionMode.Disabled;
             }
             MingleInitializer ini = new MingleInitializer();
-            mingleUser = ini.createMainUser();
+            mingleUser.amigos = ini.CreateUsers();
             appManager.mingleUsers = ini.CreateUsers();
-            appManager.mingleUsers.Add(this.mingleUser);
             mingleUser.encontros = ini.CreateEncontros();
 
         }

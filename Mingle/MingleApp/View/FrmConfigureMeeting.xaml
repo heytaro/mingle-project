@@ -13,14 +13,10 @@
     SupportedOrientations="Portrait" Orientation="Portrait"
     mc:Ignorable="d"
     shell:SystemTray.IsVisible="True">
-    
 
     <!--LayoutRoot is the root grid where all page content is placed-->
     <ScrollViewer>
-        <Grid x:Name="LayoutRoot" Style="{StaticResource LayoutGridStyle}">
-            <Grid.Background>
-                <ImageBrush ImageSource="/Images/bg.png" Stretch="UniformToFill"/>
-            </Grid.Background>
+        <Grid x:Name="LayoutRoot" Background="Transparent">
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto"/>
                 <RowDefinition Height="*"/>
@@ -28,30 +24,25 @@
 
             <!--TitlePanel contains the name of the application and page title-->
             <StackPanel Grid.Row="0" Margin="12,17,0,28">
-                <TextBlock Text="Novo Evento" Style="{StaticResource PhoneTextNormalStyle}" Foreground="#8C04A8" FontFamily="{StaticResource PhoneFontFamilySemiBold}"/>
-                <TextBlock Text="Evento" Margin="60,0,60,0" Style="{StaticResource PhoneTextTitle1Style}" HorizontalAlignment="Center"/>
+                <TextBlock Text="NOVO EVENTO" Style="{StaticResource PhoneTextNormalStyle}"/>
+                <TextBlock Text="Evento" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
             </StackPanel>
 
             <!--ContentPanel - place additional content here-->
 
             <StackPanel x:Name="pnlConteudo" Grid.Row="1" Margin="12,0,12,0">
 
-                <TextBlock Text="Nome" Style="{StaticResource PhoneTextNormalStyle}" 
-                           FontFamily="{StaticResource PhoneFontFamilySemiBold}" FontSize="30" Foreground="#FF7A00"/>
+                <TextBlock Text="Nome:" Style="{StaticResource PhoneTextNormalStyle}"/>
                 <TextBox Name="txtNomeEvento"/>
-                <TextBlock Text="Descrição" Style="{StaticResource PhoneTextNormalStyle}" 
-                           FontFamily="{StaticResource PhoneFontFamilySemiBold}" FontSize="30" Foreground="#FF1300"/>
+                <TextBlock Text="Descrição:" Style="{StaticResource PhoneTextNormalStyle}"/>
                 <TextBox Name="txtDescricaoEvento"  Height="242" TextWrapping="Wrap"
                     AcceptsReturn="True"
                     VerticalScrollBarVisibility="Visible"/>
-                <TextBlock Text="Data" Style="{StaticResource PhoneTextNormalStyle}" 
-                           FontFamily="{StaticResource PhoneFontFamilySemiBold}" FontSize="30" Foreground="#15DA00"/>
+                <TextBlock Text="Data:" Style="{StaticResource PhoneTextNormalStyle}"/>
                 <toolkit:DatePicker Name="dtpDataEvento"/>
-                <TextBlock Text="Hora" Style="{StaticResource PhoneTextNormalStyle}" 
-                           FontFamily="{StaticResource PhoneFontFamilySemiBold}" FontSize="30" Foreground="#FFF3FF00"/>
+                <TextBlock Text="Hora:" Style="{StaticResource PhoneTextNormalStyle}"/>
                 <toolkit:TimePicker Name="tpHoraEvento"/>
-                <TextBlock Text="Local:" Style="{StaticResource PhoneTextNormalStyle}" 
-                           FontFamily="{StaticResource PhoneFontFamilySemiBold}" FontSize="30" Foreground="#03899C"/>
+                <TextBlock Text="Local:" Style="{StaticResource PhoneTextNormalStyle}"/>
                 <TextBox Name="txtLocalEvento"/>
             </StackPanel>
         </Grid>

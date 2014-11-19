@@ -10,7 +10,6 @@ using Microsoft.Phone.Shell;
 using MingleApp.Resources;
 using System.Threading;
 using MingleApp;
-using MingleApp.Model;
 
 namespace MingleApp.View
 {
@@ -26,11 +25,21 @@ namespace MingleApp.View
 
         void Contatos_Loaded(object sender, RoutedEventArgs e)
         {
-            var app = (Application.Current as App);
-            List<Usuario> contato = app.mingleUser.amigos;
+            List<ContatosUsuarios> contato = new List<ContatosUsuarios>();
+            contato.Add(new ContatosUsuarios { Name = "yasmim", telefone = "97298931", email = "yasmimliborio@gmail.com" });
+            contato.Add(new ContatosUsuarios { Name = "natêlia", telefone = "45432009", email = "nat@gmail.com" });
+            contato.Add(new ContatosUsuarios { Name = "Camilla", telefone = "243342012", email = "cami@gmail.com" });
+            contato.Add(new ContatosUsuarios { Name = "Carla", telefone = "2004249", email = "k@gmail.com" });
+            contato.Add(new ContatosUsuarios { Name = "yasmine", telefone = "2002424", email = "mine@gmail.com" });
+            contato.Add(new ContatosUsuarios { Name = "nathalie", telefone = "1929434", email = "nath@gmail.com" });
+            contato.Add(new ContatosUsuarios { Name = "Fabio", telefone = "1982434", email = "f@gmail.com" });
+            contato.Add(new ContatosUsuarios { Name = "fabianuu", telefone = "2009432", email = "fab@gmail.com" });
+            contato.Add(new ContatosUsuarios { Name = "Paulo", telefone = "2007234", email = "paulo@gmail.com" });
+            contato.Add(new ContatosUsuarios { Name = "Cassio", telefone = "20074324", email = "cassio@gmail.com" });
+            contato.Add(new ContatosUsuarios { Name = "maria", telefone = "20144324", email = "maria@gmail.com" });
+            contato.Add(new ContatosUsuarios { Name = "ana", telefone = "1985432432", email = "aninha@gmail.com" });
 
-
-            List<AlphaKeyGroup<Usuario>> list = AlphaKeyGroup<Usuario>.CreateGroups(contato, Thread.CurrentThread.CurrentUICulture, c => c.nome, true);
+            List<AlphaKeyGroup<ContatosUsuarios>> list = AlphaKeyGroup<ContatosUsuarios>.CreateGroups(contato, Thread.CurrentThread.CurrentUICulture, c => c.Name, true);
 
 
             llsContatos.ItemsSource = list;
@@ -43,9 +52,9 @@ namespace MingleApp.View
 
                 return;
             }
+            App thisApp = Application.Current as App;
 
-            var app = Application.Current as App;
-            app.appManager.currentUser = llsContatos.SelectedItem as Usuario;
+            thisApp.appManager.ContatoAtual = llsContatos.SelectedItem as ContatosUsuarios;
 
             NavigationService.Navigate(new Uri("/View/FrmContactDetails.xaml", UriKind.Relative));
         }

@@ -264,27 +264,11 @@
     <Content Include="Icons\add.png" />
     <Content Include="Images\a.jpg" />
     <Content Include="Images\back.png" />
-    <Content Include="Images\bg.png" />
     <Content Include="Images\cancel.png" />
     <Content Include="Images\check.png" />
     <Content Include="Images\feature.search.png" />
     <Content Include="Images\new.png" />
     <Content Include="Images\next.png" />
-    <Content Include="Images\ProfilePictures\soudessas.png" />
-    <Content Include="Images\ProfilePictures\u1.jpg" />
-    <Content Include="Images\ProfilePictures\u2.png" />
-    <Content Include="Images\ProfilePictures\u3.jpg" />
-    <Content Include="Images\ProfilePictures\u4.jpg" />
-    <Content Include="Images\ProfilePictures\u5.jpg" />
-    <Content Include="Images\ProfilePictures\u6.jpg" />
-    <Content Include="Images\StartScreenIcons\boy46.png" />
-    <Content Include="Images\StartScreenIcons\camera87.png" />
-    <Content Include="Images\StartScreenIcons\map105.png" />
-    <Content Include="Images\StartScreenIcons\multiple25.png" />
-    <Content Include="Images\StartScreenIcons\pin56.png" />
-    <Content Include="Images\StartScreenIcons\silhouette70.png" />
-    <Content Include="Images\StartScreenIcons\star175.png" />
-    <Content Include="Images\StartScreenIcons\user82.png" />
     <Content Include="README_FIRST.txt" />
     <Content Include="Toolkit.Content\ApplicationBar.Add.png" />
     <Content Include="Toolkit.Content\ApplicationBar.Cancel.png" />
@@ -304,7 +288,6 @@
       <HintPath>..\packages\WPtoolkit.4.2013.08.16\lib\wp8\Microsoft.Phone.Controls.Toolkit.dll</HintPath>
     </Reference>
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).$(TargetFrameworkVersion).Overrides.targets" />
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
